@@ -1,0 +1,129 @@
+---------------------------------------------------------------
+[ 2019-04-04T08:43:01+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/dashboard/statistics.html
+[运行时间：0.306052s] [吞吐率：3.27req/s] [内存消耗：3,721.84kb] [文件加载：71]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_pdcash' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-04T08:45:58+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/goods_class_del/gc_id/1624
+[运行时间：0.165843s] [吞吐率：6.03req/s] [内存消耗：3,769.92kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclassstaple' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-04T08:46:01+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/goods_class_del/gc_id/1624
+[运行时间：0.224984s] [吞吐率：4.44req/s] [内存消耗：3,769.80kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclassstaple' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-04T08:49:49+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/brand/brand_del.html?brand_id=807
+[运行时间：0.328453s] [吞吐率：3.04req/s] [内存消耗：3,589.73kb] [文件加载：66]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/brand\06063037069202476_sm.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Brand.php:45]
+---------------------------------------------------------------
+[ 2019-04-04T08:53:22+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/goods_class_del/gc_id/1569
+[运行时间：0.266038s] [吞吐率：3.76req/s] [内存消耗：3,770.42kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclassstaple' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-04T08:53:48+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/goods_class_del/gc_id/1568
+[运行时间：0.204563s] [吞吐率：4.89req/s] [内存消耗：3,770.82kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclassstaple' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-04T08:59:46+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/goods_class_del/gc_id/1119
+[运行时间：0.305306s] [吞吐率：3.28req/s] [内存消耗：3,771.28kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclassstaple' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-04T09:04:21+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/goods_class_del.html?gc_id=1462
+[运行时间：0.239460s] [吞吐率：4.18req/s] [内存消耗：3,772.83kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclassstaple' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-04T09:09:29+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/goods_class_del.html?gc_id=1462
+[运行时间：0.174059s] [吞吐率：5.75req/s] [内存消耗：3,769.83kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclassstaple' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-04T09:10:51+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/goods_class_del/gc_id/1471
+[运行时间：0.315040s] [吞吐率：3.17req/s] [内存消耗：3,772.48kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclassstaple' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-04T09:18:37+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/goods_class/
+[运行时间：0.049381s] [吞吐率：20.25req/s] [内存消耗：1,777.48kb] [文件加载：51]
+[ error ] [4]语法错误: unexpected ';'[D:\phpStudy\PHPTutorial\WWW\dsmall\application\admin\controller\Goodsclass.php:15]
+---------------------------------------------------------------
+[ 2019-04-04T09:21:23+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsclass/ceshi.html
+[运行时间：0.173151s] [吞吐率：5.78req/s] [内存消耗：3,774.59kb] [文件加载：71]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclassstaple' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-04T09:35:36+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsclass/ceshi.html
+[运行时间：0.255851s] [吞吐率：3.91req/s] [内存消耗：3,835.61kb] [文件加载：72]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclasstag' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-04T09:38:55+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsclass/ceshi.html
+[运行时间：0.179230s] [吞吐率：5.58req/s] [内存消耗：3,896.40kb] [文件加载：73]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_storebindclass' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-04T09:41:30+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/goods_class_del/gc_id/1441
+[运行时间：0.706820s] [吞吐率：1.41req/s] [内存消耗：4,518.68kb] [文件加载：79]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'storemt_code' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-04T09:43:53+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/goods_class_del.html?gc_id=1126,1133
+[运行时间：0.646527s] [吞吐率：1.55req/s] [内存消耗：4,406.08kb] [文件加载：77]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'storemt_code' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-04T09:44:20+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/goods_class_del.html?gc_id=1407,1607
+[运行时间：0.637926s] [吞吐率：1.57req/s] [内存消耗：4,406.35kb] [文件加载：77]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'storemt_code' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-04T09:46:22+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/goods_class_del.html?gc_id=1090,1484
+[运行时间：0.703406s] [吞吐率：1.42req/s] [内存消耗：4,404.95kb] [文件加载：77]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'storemt_code' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-04T09:50:06+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/goods_class_del.html?gc_id=1411,1425
+[运行时间：0.652649s] [吞吐率：1.53req/s] [内存消耗：4,408.20kb] [文件加载：77]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'storemt_code' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-04T09:54:21+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsclass/ceshi.html
+[运行时间：0.550429s] [吞吐率：1.82req/s] [内存消耗：4,405.11kb] [文件加载：78]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'storemt_code' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-04T10:34:52+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/goods_class_del.html?gc_id=1421,1433
+[运行时间：0.650303s] [吞吐率：1.54req/s] [内存消耗：4,405.25kb] [文件加载：77]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'storemt_code' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-04T10:35:17+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/goods_class_del.html?gc_id=1422,1435
+[运行时间：0.708512s] [吞吐率：1.41req/s] [内存消耗：4,405.91kb] [文件加载：77]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'storemt_code' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-04T11:12:24+08:00 ] 0.0.0.0 POST localhost/dsmall/public/index.php/admin/goodsclass/goods_class_edit.html?gc_id=1410
+[运行时间：0.507353s] [吞吐率：1.97req/s] [内存消耗：3,893.19kb] [文件加载：73]
+[ error ] [8]未定义数组下标: 0[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:179]
+---------------------------------------------------------------
+[ 2019-04-04T11:12:41+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsclass/nav_edit.html?gc_id=1410
+[运行时间：0.137765s] [吞吐率：7.26req/s] [内存消耗：4,114.96kb] [文件加载：70]
+[ error ] [8]未定义数组索引: goodscn_pic[D:\phpStudy\PHPTutorial\WWW\dsmall\application\admin\controller\Goodsclass.php:506]
+---------------------------------------------------------------
+[ 2019-04-04T11:14:03+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsclass/nav_edit.html?gc_id=1410
+[运行时间：0.066135s] [吞吐率：15.12req/s] [内存消耗：4,120.88kb] [文件加载：70]
+[ error ] [8]未定义数组索引: goodscn_adv1[D:\phpStudy\PHPTutorial\WWW\dsmall\application\admin\controller\Goodsclass.php:510]
+---------------------------------------------------------------
+[ 2019-04-04T11:14:39+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsclass/nav_edit.html?gc_id=1410
+[运行时间：0.067990s] [吞吐率：14.71req/s] [内存消耗：4,120.72kb] [文件加载：70]
+[ error ] [8]未定义数组索引: goodscn_adv2[D:\phpStudy\PHPTutorial\WWW\dsmall\application\admin\controller\Goodsclass.php:514]
+---------------------------------------------------------------
+[ 2019-04-04T11:14:57+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsclass/nav_edit.html?gc_id=1410
+[运行时间：0.095604s] [吞吐率：10.46req/s] [内存消耗：4,438.15kb] [文件加载：71]
+[ error ] [8]未定义数组索引: gc_id[D:\phpStudy\PHPTutorial\WWW\dsmall\application\admin\controller\Goodsclass.php:540]
+---------------------------------------------------------------
+[ 2019-04-04T11:21:52+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsclass/nav_edit.html?gc_id=1410
+[运行时间：0.204683s] [吞吐率：4.89req/s] [内存消耗：4,438.07kb] [文件加载：71]
+[ error ] [8]未定义数组索引: gc_id[D:\phpStudy\PHPTutorial\WWW\dsmall\application\admin\controller\Goodsclass.php:540]
+---------------------------------------------------------------
+[ 2019-04-04T11:22:56+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsclass/nav_edit.html?gc_id=1410
+[运行时间：0.102427s] [吞吐率：9.76req/s] [内存消耗：4,438.07kb] [文件加载：71]
+[ error ] [8]未定义数组索引: gc_id[D:\phpStudy\PHPTutorial\WWW\dsmall\application\admin\controller\Goodsclass.php:540]
+---------------------------------------------------------------
+[ 2019-04-04T11:35:55+08:00 ] 0.0.0.0 POST localhost/dsmall/public/index.php/admin/goodsclass/nav_edit.html?gc_id=1410
+[运行时间：0.102217s] [吞吐率：9.78req/s] [内存消耗：4,194.23kb] [文件加载：71]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads/home/goods_class/05585428138932393.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\admin\controller\Goodsclass.php:477]
+[ error ] [0]数据表字段不存在:[goodscn_alias][D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Builder.php:115]
+---------------------------------------------------------------
+[ 2019-04-04T11:37:43+08:00 ] 0.0.0.0 POST localhost/dsmall/public/index.php/admin/goodsclass/nav_edit.html?gc_id=1410
+[运行时间：0.344693s] [吞吐率：2.90req/s] [内存消耗：4,268.87kb] [文件加载：73]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads/home/goods_class/05585428138932393.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\admin\controller\Goodsclass.php:477]
+---------------------------------------------------------------
+[ 2019-04-04T11:42:32+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Storesnstrace/index/
+[运行时间：0.063222s] [吞吐率：15.82req/s] [内存消耗：3,619.37kb] [文件加载：73]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_storesnstracelog' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]

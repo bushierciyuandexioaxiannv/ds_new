@@ -1,0 +1,772 @@
+---------------------------------------------------------------
+[ 2019-04-02T09:45:48+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/dashboard/statistics.html
+[运行时间：0.609205s] [吞吐率：1.64req/s] [内存消耗：3,598.51kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'member_addtime' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T09:47:03+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsclass/tag.html
+[运行时间：0.324213s] [吞吐率：3.08req/s] [内存消耗：4,796.60kb] [文件加载：69]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-02T09:47:20+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.075387s] [吞吐率：13.26req/s] [内存消耗：4,718.24kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-02T09:47:22+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Brand/index/
+[运行时间：0.585196s] [吞吐率：1.71req/s] [内存消耗：3,769.35kb] [文件加载：75]
+[ error ] [8]未定义数组索引: brand_showtype[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\4671ef41a94ce4a6cbf171e8c415fc6e.php:110]
+---------------------------------------------------------------
+[ 2019-04-02T09:50:03+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.063309s] [吞吐率：15.80req/s] [内存消耗：4,718.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-02T09:56:06+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.068617s] [吞吐率：14.57req/s] [内存消耗：4,718.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-02T09:56:07+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.175685s] [吞吐率：5.69req/s] [内存消耗：3,653.49kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-02T09:56:09+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.107341s] [吞吐率：9.32req/s] [内存消耗：3,653.59kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-02T09:56:13+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.063750s] [吞吐率：15.69req/s] [内存消耗：4,718.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-02T09:56:18+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsclass/tag.html
+[运行时间：0.060378s] [吞吐率：16.56req/s] [内存消耗：4,594.50kb] [文件加载：69]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-02T09:56:49+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.096703s] [吞吐率：10.34req/s] [内存消耗：3,828.27kb] [文件加载：73]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\application\admin\controller\Member.php:73]
+---------------------------------------------------------------
+[ 2019-04-02T09:56:51+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.091258s] [吞吐率：10.96req/s] [内存消耗：3,828.27kb] [文件加载：73]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\application\admin\controller\Member.php:73]
+---------------------------------------------------------------
+[ 2019-04-02T09:56:56+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Snsmember/index/
+[运行时间：0.093719s] [吞吐率：10.67req/s] [内存消耗：3,574.27kb] [文件加载：73]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_snsmembertag' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T09:57:01+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.120247s] [吞吐率：8.32req/s] [内存消耗：3,828.30kb] [文件加载：73]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\application\admin\controller\Member.php:73]
+---------------------------------------------------------------
+[ 2019-04-02T09:57:02+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.101444s] [吞吐率：9.86req/s] [内存消耗：3,828.27kb] [文件加载：73]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\application\admin\controller\Member.php:73]
+---------------------------------------------------------------
+[ 2019-04-02T09:57:57+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Mbcategorypic/mb_category_list.html
+[运行时间：0.110994s] [吞吐率：9.01req/s] [内存消耗：3,476.02kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_mbcategory' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T09:58:31+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Mbcategorypic/mb_category_list.html
+[运行时间：0.267060s] [吞吐率：3.74req/s] [内存消耗：4,846.86kb] [文件加载：75]
+[ error ] [8]未定义数组下标: 1092[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\3306ab0018f8aaa297b9cbb20abd7bc2.php:82]
+---------------------------------------------------------------
+[ 2019-04-02T10:13:52+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Mbcategorypic/mb_category_list.html
+[运行时间：0.116146s] [吞吐率：8.61req/s] [内存消耗：4,682.06kb] [文件加载：72]
+[ error ] [8]未定义数组下标: 1092[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\3306ab0018f8aaa297b9cbb20abd7bc2.php:82]
+---------------------------------------------------------------
+[ 2019-04-02T10:14:07+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.103925s] [吞吐率：9.62req/s] [内存消耗：3,828.27kb] [文件加载：73]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\application\admin\controller\Member.php:73]
+---------------------------------------------------------------
+[ 2019-04-02T10:14:10+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.062138s] [吞吐率：16.09req/s] [内存消耗：4,718.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-02T10:54:31+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：1.768072s] [吞吐率：0.57req/s] [内存消耗：4,718.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-02T10:54:31+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/goods_class/
+[运行时间：0.104056s] [吞吐率：9.61req/s] [内存消耗：3,706.51kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclass' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T10:55:35+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsclass/tag.html
+[运行时间：0.059822s] [吞吐率：16.72req/s] [内存消耗：4,594.49kb] [文件加载：69]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-02T10:56:37+08:00 ] 0.0.0.0 POST localhost/dsmall/public/index.php/admin/goodsclass/goods_class_add.html
+[运行时间：0.171459s] [吞吐率：5.83req/s] [内存消耗：3,780.97kb] [文件加载：72]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_adminlog' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T10:58:35+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.095371s] [吞吐率：10.49req/s] [内存消耗：4,923.66kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-02T10:58:39+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.083319s] [吞吐率：12.00req/s] [内存消耗：3,653.59kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-02T10:58:43+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/GoodsAlbum/index/
+[运行时间：0.075502s] [吞吐率：13.24req/s] [内存消耗：3,564.63kb] [文件加载：73]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_albumclass' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T10:59:54+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/GoodsAlbum/index/
+[运行时间：0.107714s] [吞吐率：9.28req/s] [内存消耗：3,626.99kb] [文件加载：74]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_albumpic' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T10:59:55+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/GoodsAlbum/index/
+[运行时间：0.108692s] [吞吐率：9.20req/s] [内存消耗：3,626.99kb] [文件加载：74]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_albumpic' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T10:59:55+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/GoodsAlbum/index/
+[运行时间：0.099691s] [吞吐率：10.03req/s] [内存消耗：3,626.99kb] [文件加载：74]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_albumpic' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T11:04:43+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.089979s] [吞吐率：11.11req/s] [内存消耗：3,828.27kb] [文件加载：73]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\application\admin\controller\Member.php:73]
+---------------------------------------------------------------
+[ 2019-04-02T11:05:11+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.196252s] [吞吐率：5.10req/s] [内存消耗：3,828.30kb] [文件加载：73]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\application\admin\controller\Member.php:73]
+---------------------------------------------------------------
+[ 2019-04-02T11:16:06+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.293649s] [吞吐率：3.41req/s] [内存消耗：4,129.07kb] [文件加载：78]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:16:08+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.102102s] [吞吐率：9.79req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:18:09+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：2.234506s] [吞吐率：0.45req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:18:09+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.857571s] [吞吐率：1.17req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:18:09+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.111468s] [吞吐率：8.97req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:18:10+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.126713s] [吞吐率：7.89req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:18:10+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.109811s] [吞吐率：9.11req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:18:10+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.091691s] [吞吐率：10.91req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:18:11+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.142612s] [吞吐率：7.01req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:18:11+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.087697s] [吞吐率：11.40req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:18:11+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.121952s] [吞吐率：8.20req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:18:12+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.095745s] [吞吐率：10.44req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:18:12+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.080806s] [吞吐率：12.38req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:19:10+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.100412s] [吞吐率：9.96req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:19:10+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.092416s] [吞吐率：10.82req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:19:11+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.119361s] [吞吐率：8.38req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:19:11+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.093320s] [吞吐率：10.72req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:19:11+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.080149s] [吞吐率：12.48req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:19:11+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.105365s] [吞吐率：9.49req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:19:12+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.100955s] [吞吐率：9.91req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:19:12+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.092102s] [吞吐率：10.86req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:19:12+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.093451s] [吞吐率：10.70req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:19:19+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.216338s] [吞吐率：4.62req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:19:19+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.112563s] [吞吐率：8.88req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:19:20+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.132451s] [吞吐率：7.55req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:20:20+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.089704s] [吞吐率：11.15req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:20:21+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.093960s] [吞吐率：10.64req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:20:21+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.144154s] [吞吐率：6.94req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:20:21+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.095573s] [吞吐率：10.46req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:20:22+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.119300s] [吞吐率：8.38req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:20:22+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.089081s] [吞吐率：11.23req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:20:22+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.095892s] [吞吐率：10.43req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:20:22+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.094363s] [吞吐率：10.60req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:20:23+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.155480s] [吞吐率：6.43req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:20:54+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.101906s] [吞吐率：9.81req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:20:55+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.091909s] [吞吐率：10.88req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:20:55+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.087597s] [吞吐率：11.42req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:20:56+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.100545s] [吞吐率：9.95req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:20:56+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.099119s] [吞吐率：10.09req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:20:56+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.083886s] [吞吐率：11.92req/s] [内存消耗：3,942.20kb] [文件加载：75]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:140]
+---------------------------------------------------------------
+[ 2019-04-02T11:28:50+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Member/member/
+[运行时间：0.243450s] [吞吐率：4.11req/s] [内存消耗：4,129.14kb] [文件加载：78]
+[ error ] [8]未定义数组索引: member_loginnum[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\8be39959df32dc3a0bf81149fd86412b.php:155]
+---------------------------------------------------------------
+[ 2019-04-02T11:32:52+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/member/edit.html?member_id=16793
+[运行时间：0.351272s] [吞吐率：2.85req/s] [内存消耗：3,829.60kb] [文件加载：73]
+[ error ] [8]未定义数组索引: is_buylimit[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\f91e2187b2fbea38927edf2ce36832d6.php:122]
+---------------------------------------------------------------
+[ 2019-04-02T11:33:20+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.074485s] [吞吐率：13.43req/s] [内存消耗：3,381.85kb] [文件加载：71]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_articleclass' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T11:36:05+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.112708s] [吞吐率：8.87req/s] [内存消耗：3,400.16kb] [文件加载：72]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_articleclass' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T11:37:02+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.165375s] [吞吐率：6.05req/s] [内存消耗：4,413.64kb] [文件加载：77]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclassnav' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T11:38:05+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.084341s] [吞吐率：11.86req/s] [内存消耗：4,142.84kb] [文件加载：71]
+[ error ] [8]未定义数组索引: goodscn_pic[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:471]
+---------------------------------------------------------------
+[ 2019-04-02T11:41:15+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.082672s] [吞吐率：12.10req/s] [内存消耗：4,142.84kb] [文件加载：71]
+[ error ] [8]未定义数组索引: goodscn_pic[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:471]
+---------------------------------------------------------------
+[ 2019-04-02T11:44:13+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.082587s] [吞吐率：12.11req/s] [内存消耗：4,142.73kb] [文件加载：71]
+[ error ] [8]未定义数组索引: goodscn_adv1[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:478]
+---------------------------------------------------------------
+[ 2019-04-02T11:46:54+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.167079s] [吞吐率：5.99req/s] [内存消耗：4,251.95kb] [文件加载：73]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_typebrand' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T11:48:57+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.186138s] [吞吐率：5.37req/s] [内存消耗：4,594.81kb] [文件加载：76]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'goods_advword' in 'field list'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T14:05:45+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：2.257159s] [吞吐率：0.44req/s] [内存消耗：4,851.77kb] [文件加载：81]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'goods_advword' in 'field list'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T14:08:26+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.093083s] [吞吐率：10.74req/s] [内存消耗：4,094.07kb] [文件加载：74]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'goods_advword' in 'field list'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T14:08:28+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.105754s] [吞吐率：9.46req/s] [内存消耗：4,094.07kb] [文件加载：74]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'goods_advword' in 'field list'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T14:08:29+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.097785s] [吞吐率：10.23req/s] [内存消耗：4,094.07kb] [文件加载：74]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'goods_advword' in 'field list'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T14:08:29+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.104960s] [吞吐率：9.53req/s] [内存消耗：4,094.07kb] [文件加载：74]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'goods_advword' in 'field list'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T14:08:29+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.090141s] [吞吐率：11.09req/s] [内存消耗：4,094.07kb] [文件加载：74]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'goods_advword' in 'field list'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T14:08:29+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.095343s] [吞吐率：10.49req/s] [内存消耗：4,094.07kb] [文件加载：74]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'goods_advword' in 'field list'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T14:08:30+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.108246s] [吞吐率：9.24req/s] [内存消耗：4,094.07kb] [文件加载：74]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'goods_advword' in 'field list'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T14:08:30+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.110193s] [吞吐率：9.07req/s] [内存消耗：4,094.07kb] [文件加载：74]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'goods_advword' in 'field list'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T14:08:30+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.086515s] [吞吐率：11.56req/s] [内存消耗：4,094.07kb] [文件加载：74]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'goods_advword' in 'field list'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T14:08:31+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.121225s] [吞吐率：8.25req/s] [内存消耗：4,094.05kb] [文件加载：74]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'goods_advword' in 'field list'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T14:08:31+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.092734s] [吞吐率：10.78req/s] [内存消耗：4,094.07kb] [文件加载：74]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'goods_advword' in 'field list'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T14:08:31+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.108828s] [吞吐率：9.19req/s] [内存消耗：4,094.07kb] [文件加载：74]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'goods_advword' in 'field list'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T14:08:32+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.090835s] [吞吐率：11.01req/s] [内存消耗：4,094.07kb] [文件加载：74]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'goods_advword' in 'field list'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T14:13:10+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.112015s] [吞吐率：8.93req/s] [内存消耗：4,147.43kb] [文件加载：75]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_pxianshigoods' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T14:15:37+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.117524s] [吞吐率：8.51req/s] [内存消耗：4,162.68kb] [文件加载：75]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'xianshigoods_state' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T14:52:34+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.132787s] [吞吐率：7.53req/s] [内存消耗：4,161.94kb] [文件加载：75]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'xianshigoods_starttime' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T15:28:12+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.156679s] [吞吐率：6.38req/s] [内存消耗：4,276.13kb] [文件加载：78]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'xianshigoods_starttime' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T15:30:36+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.108740s] [吞吐率：9.20req/s] [内存消耗：4,162.57kb] [文件加载：75]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'xianshigoods_recommend' in 'order clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T15:30:38+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.103038s] [吞吐率：9.71req/s] [内存消耗：4,162.63kb] [文件加载：75]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'xianshigoods_recommend' in 'order clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T15:30:38+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.162906s] [吞吐率：6.14req/s] [内存消耗：4,162.57kb] [文件加载：75]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'xianshigoods_recommend' in 'order clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T15:32:00+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.358967s] [吞吐率：2.79req/s] [内存消耗：4,391.70kb] [文件加载：79]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'groupbuy_state' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T15:49:53+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.253535s] [吞吐率：3.94req/s] [内存消耗：4,485.16kb] [文件加载：81]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_articleclass' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T15:51:18+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.197375s] [吞吐率：5.07req/s] [内存消耗：4,533.96kb] [文件加载：81]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclass' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T15:51:51+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.086770s] [吞吐率：11.52req/s] [内存消耗：3,843.24kb] [文件加载：73]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclass' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T15:51:52+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.083658s] [吞吐率：11.95req/s] [内存消耗：3,843.24kb] [文件加载：73]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclass' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T15:51:52+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.074154s] [吞吐率：13.49req/s] [内存消耗：3,843.24kb] [文件加载：73]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclass' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T15:51:52+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.065957s] [吞吐率：15.16req/s] [内存消耗：3,843.24kb] [文件加载：73]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclass' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T15:51:53+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.078578s] [吞吐率：12.73req/s] [内存消耗：3,843.24kb] [文件加载：73]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclass' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T15:51:53+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.095798s] [吞吐率：10.44req/s] [内存消耗：3,843.24kb] [文件加载：73]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclass' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T15:52:49+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.589632s] [吞吐率：1.70req/s] [内存消耗：6,000.77kb] [文件加载：76]
+[ error ] [8]未定义数组索引: seo_type[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Cache.php:85]
+---------------------------------------------------------------
+[ 2019-04-02T15:54:18+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.125475s] [吞吐率：7.97req/s] [内存消耗：4,659.77kb] [文件加载：74]
+[ error ] [8]未定义数组索引: seo_title[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Seo.php:81]
+---------------------------------------------------------------
+[ 2019-04-02T15:56:03+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.102587s] [吞吐率：9.75req/s] [内存消耗：4,593.35kb] [文件加载：73]
+[ error ] [8]未定义数组索引: seo_keywords[D:\phpStudy\PHPTutorial\WWW\dsmall\application\home\controller\BaseHome.php:40]
+---------------------------------------------------------------
+[ 2019-04-02T15:56:04+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.111765s] [吞吐率：8.95req/s] [内存消耗：4,593.38kb] [文件加载：73]
+[ error ] [8]未定义数组索引: seo_keywords[D:\phpStudy\PHPTutorial\WWW\dsmall\application\home\controller\BaseHome.php:40]
+---------------------------------------------------------------
+[ 2019-04-02T15:56:04+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.104175s] [吞吐率：9.60req/s] [内存消耗：4,593.35kb] [文件加载：73]
+[ error ] [8]未定义数组索引: seo_keywords[D:\phpStudy\PHPTutorial\WWW\dsmall\application\home\controller\BaseHome.php:40]
+---------------------------------------------------------------
+[ 2019-04-02T15:56:05+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.121658s] [吞吐率：8.22req/s] [内存消耗：4,593.38kb] [文件加载：73]
+[ error ] [8]未定义数组索引: seo_keywords[D:\phpStudy\PHPTutorial\WWW\dsmall\application\home\controller\BaseHome.php:40]
+---------------------------------------------------------------
+[ 2019-04-02T16:12:32+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.828255s] [吞吐率：1.21req/s] [内存消耗：5,567.54kb] [文件加载：83]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_advposition' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T16:13:34+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.125648s] [吞吐率：7.96req/s] [内存消耗：4,657.09kb] [文件加载：76]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_advposition' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T16:13:36+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.121310s] [吞吐率：8.24req/s] [内存消耗：4,657.09kb] [文件加载：76]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_advposition' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T16:13:37+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.111618s] [吞吐率：8.96req/s] [内存消耗：4,657.09kb] [文件加载：76]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_advposition' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T16:13:37+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.125837s] [吞吐率：7.95req/s] [内存消耗：4,657.09kb] [文件加载：76]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_advposition' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T16:15:06+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.140331s] [吞吐率：7.13req/s] [内存消耗：4,657.09kb] [文件加载：76]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_advposition' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T16:15:07+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.215849s] [吞吐率：4.63req/s] [内存消耗：4,657.09kb] [文件加载：76]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_advposition' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T16:15:08+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.140337s] [吞吐率：7.13req/s] [内存消耗：4,657.09kb] [文件加载：76]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_advposition' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T16:15:08+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.117748s] [吞吐率：8.49req/s] [内存消耗：4,657.09kb] [文件加载：76]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_advposition' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T16:15:08+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.105910s] [吞吐率：9.44req/s] [内存消耗：4,657.09kb] [文件加载：76]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_advposition' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T16:15:09+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.126037s] [吞吐率：7.93req/s] [内存消耗：4,657.09kb] [文件加载：76]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_advposition' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T16:17:51+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.106903s] [吞吐率：9.35req/s] [内存消耗：4,657.09kb] [文件加载：76]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_advposition' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T16:17:52+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.129771s] [吞吐率：7.71req/s] [内存消耗：4,657.09kb] [文件加载：76]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_advposition' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T16:17:52+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.127563s] [吞吐率：7.84req/s] [内存消耗：4,657.09kb] [文件加载：76]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_advposition' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T16:17:53+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.115215s] [吞吐率：8.68req/s] [内存消耗：4,657.09kb] [文件加载：76]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_advposition' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T16:18:22+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.116360s] [吞吐率：8.59req/s] [内存消耗：4,657.09kb] [文件加载：76]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_advposition' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T16:18:23+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.135521s] [吞吐率：7.38req/s] [内存消耗：4,657.09kb] [文件加载：76]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_advposition' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T16:18:23+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.106915s] [吞吐率：9.35req/s] [内存消耗：4,657.09kb] [文件加载：76]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_advposition' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T16:18:24+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.122264s] [吞吐率：8.18req/s] [内存消耗：4,657.09kb] [文件加载：76]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_advposition' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T16:18:24+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.112337s] [吞吐率：8.90req/s] [内存消耗：4,657.09kb] [文件加载：76]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_advposition' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T16:18:24+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.097135s] [吞吐率：10.29req/s] [内存消耗：4,657.09kb] [文件加载：76]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_advposition' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T16:18:25+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.139046s] [吞吐率：7.19req/s] [内存消耗：4,657.09kb] [文件加载：76]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_advposition' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T16:18:25+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.099509s] [吞吐率：10.05req/s] [内存消耗：4,657.09kb] [文件加载：76]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_advposition' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T16:19:58+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.170749s] [吞吐率：5.86req/s] [内存消耗：4,678.46kb] [文件加载：77]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'adv_enabled' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T16:20:00+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.120808s] [吞吐率：8.28req/s] [内存消耗：4,673.26kb] [文件加载：77]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'adv_enabled' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T16:22:25+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Adv/ap_manage/
+[运行时间：0.180885s] [吞吐率：5.53req/s] [内存消耗：3,994.52kb] [文件加载：78]
+[ error ] [8]未定义数组索引: ap_isuse[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\3ab1c9f3f3a0b28780d6ab274d9d4a00.php:102]
+---------------------------------------------------------------
+[ 2019-04-02T16:26:30+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Adv/ap_manage/
+[运行时间：0.110961s] [吞吐率：9.01req/s] [内存消耗：3,825.23kb] [文件加载：75]
+[ error ] [8]未定义数组索引: ap_isuse[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\3ab1c9f3f3a0b28780d6ab274d9d4a00.php:102]
+---------------------------------------------------------------
+[ 2019-04-02T16:26:31+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Adv/ap_manage/
+[运行时间：0.107296s] [吞吐率：9.32req/s] [内存消耗：3,825.27kb] [文件加载：75]
+[ error ] [8]未定义数组索引: ap_isuse[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\3ab1c9f3f3a0b28780d6ab274d9d4a00.php:102]
+---------------------------------------------------------------
+[ 2019-04-02T16:26:31+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Adv/ap_manage/
+[运行时间：0.090678s] [吞吐率：11.03req/s] [内存消耗：3,825.27kb] [文件加载：75]
+[ error ] [8]未定义数组索引: ap_isuse[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\3ab1c9f3f3a0b28780d6ab274d9d4a00.php:102]
+---------------------------------------------------------------
+[ 2019-04-02T16:26:32+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Adv/ap_manage/
+[运行时间：0.114348s] [吞吐率：8.75req/s] [内存消耗：3,825.23kb] [文件加载：75]
+[ error ] [8]未定义数组索引: ap_isuse[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\3ab1c9f3f3a0b28780d6ab274d9d4a00.php:102]
+---------------------------------------------------------------
+[ 2019-04-02T16:26:32+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Adv/ap_manage/
+[运行时间：0.093405s] [吞吐率：10.71req/s] [内存消耗：3,825.27kb] [文件加载：75]
+[ error ] [8]未定义数组索引: ap_isuse[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\3ab1c9f3f3a0b28780d6ab274d9d4a00.php:102]
+---------------------------------------------------------------
+[ 2019-04-02T16:26:32+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Adv/ap_manage/
+[运行时间：0.152858s] [吞吐率：6.54req/s] [内存消耗：3,825.23kb] [文件加载：75]
+[ error ] [8]未定义数组索引: ap_isuse[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\3ab1c9f3f3a0b28780d6ab274d9d4a00.php:102]
+---------------------------------------------------------------
+[ 2019-04-02T16:26:32+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Adv/ap_manage/
+[运行时间：0.121896s] [吞吐率：8.20req/s] [内存消耗：3,825.27kb] [文件加载：75]
+[ error ] [8]未定义数组索引: ap_isuse[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\3ab1c9f3f3a0b28780d6ab274d9d4a00.php:102]
+---------------------------------------------------------------
+[ 2019-04-02T16:27:56+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Adv/ap_manage/
+[运行时间：0.172625s] [吞吐率：5.79req/s] [内存消耗：3,994.66kb] [文件加载：78]
+[ error ] [8]未定义数组索引: isuse[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\3ab1c9f3f3a0b28780d6ab274d9d4a00.php:102]
+---------------------------------------------------------------
+[ 2019-04-02T16:31:34+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.171700s] [吞吐率：5.82req/s] [内存消耗：4,784.32kb] [文件加载：79]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'adv_enabled' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T16:31:36+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.113639s] [吞吐率：8.80req/s] [内存消耗：4,673.26kb] [文件加载：77]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'adv_enabled' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T16:31:36+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.110291s] [吞吐率：9.07req/s] [内存消耗：4,673.26kb] [文件加载：77]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'adv_enabled' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T16:31:36+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.102772s] [吞吐率：9.73req/s] [内存消耗：4,673.26kb] [文件加载：77]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'adv_enabled' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T16:40:30+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.200824s] [吞吐率：4.98req/s] [内存消耗：4,673.26kb] [文件加载：77]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'adv_enabled' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T16:40:31+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.120194s] [吞吐率：8.32req/s] [内存消耗：4,673.26kb] [文件加载：77]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'adv_enabled' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T16:43:04+08:00 ] 0.0.0.0 POST localhost/dsmall/public/index.php/admin/adv/ap_add.html
+[运行时间：0.310193s] [吞吐率：3.22req/s] [内存消耗：3,628.43kb] [文件加载：70]
+[ error ] [0]数据表字段不存在:[adminlog_content][D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Builder.php:115]
+---------------------------------------------------------------
+[ 2019-04-02T16:43:11+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.064258s] [吞吐率：15.56req/s] [内存消耗：4,720.80kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-02T16:43:12+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.104831s] [吞吐率：9.54req/s] [内存消耗：3,653.73kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-02T16:43:50+08:00 ] 0.0.0.0 POST localhost/dsmall/public/index.php/admin/adv/ap_edit.html?ap_id=1057
+[运行时间：0.234438s] [吞吐率：4.27req/s] [内存消耗：3,630.95kb] [文件加载：70]
+[ error ] [0]数据表字段不存在:[adminlog_content][D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Builder.php:115]
+---------------------------------------------------------------
+[ 2019-04-02T16:55:20+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/dashboard/statistics.html
+[运行时间：0.121863s] [吞吐率：8.21req/s] [内存消耗：3,721.82kb] [文件加载：71]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_pdcash' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T17:02:27+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/adv/adv.html?ap_id=11
+[运行时间：0.268968s] [吞吐率：3.72req/s] [内存消耗：3,980.23kb] [文件加载：78]
+[ error ] [8]未定义数组索引: adv_sort[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\b996e528993c2ff0530f99406e6bba38.php:103]
+---------------------------------------------------------------
+[ 2019-04-02T17:03:33+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/adv/adv.html?ap_id=9
+[运行时间：0.146209s] [吞吐率：6.84req/s] [内存消耗：3,788.53kb] [文件加载：75]
+[ error ] [8]未定义数组索引: adv_sort[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\b996e528993c2ff0530f99406e6bba38.php:103]
+---------------------------------------------------------------
+[ 2019-04-02T17:20:53+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Document/index/
+[运行时间：0.167629s] [吞吐率：5.97req/s] [内存消耗：3,767.96kb] [文件加载：74]
+[ error ] [8]未定义数组索引: document_title[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\ea48d2759d4fe9de209bf8dfe4041a75.php:77]
+---------------------------------------------------------------
+[ 2019-04-02T17:20:57+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Mallconsult/index/
+[运行时间：0.079523s] [吞吐率：12.57req/s] [内存消耗：3,559.98kb] [文件加载：72]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_mallconsult' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T17:21:06+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Flea/flea/
+[运行时间：0.085220s] [吞吐率：11.73req/s] [内存消耗：3,709.09kb] [文件加载：75]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_fleaclass' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T17:21:07+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Flea/flea/
+[运行时间：0.098862s] [吞吐率：10.12req/s] [内存消耗：3,709.23kb] [文件加载：75]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_fleaclass' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T17:21:08+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Fleaclass/flea_class/
+[运行时间：0.074680s] [吞吐率：13.39req/s] [内存消耗：3,555.94kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_fleaclass' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T17:21:10+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Fleaclassindex/flea_class_index/
+[运行时间：0.062898s] [吞吐率：15.90req/s] [内存消耗：3,496.92kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_fleaclass' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T17:21:12+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Flearegion/flea_region/
+[运行时间：0.082124s] [吞吐率：12.18req/s] [内存消耗：3,531.20kb] [文件加载：73]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_fleaarea' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T17:25:14+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/adv/adv.html?ap_id=9
+[运行时间：0.315108s] [吞吐率：3.17req/s] [内存消耗：3,788.53kb] [文件加载：75]
+[ error ] [8]未定义数组索引: adv_sort[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\b996e528993c2ff0530f99406e6bba38.php:103]
+---------------------------------------------------------------
+[ 2019-04-02T17:31:07+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/adv/adv.html?ap_id=9
+[运行时间：0.361856s] [吞吐率：2.76req/s] [内存消耗：3,962.02kb] [文件加载：78]
+[ error ] [8]未定义数组索引: adv_code[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\b996e528993c2ff0530f99406e6bba38.php:105]
+---------------------------------------------------------------
+[ 2019-04-02T17:36:43+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/Home/Index/index.html
+[运行时间：1.667214s] [吞吐率：0.60req/s] [内存消耗：6,540.48kb] [文件加载：86]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'adv_enabled' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T17:48:46+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsclass/goods_class_del.html?gc_id=1633
+[运行时间：0.252095s] [吞吐率：3.97req/s] [内存消耗：3,761.89kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclassstaple' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T17:48:48+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsclass/goods_class_del.html?gc_id=1633
+[运行时间：0.168158s] [吞吐率：5.95req/s] [内存消耗：3,769.98kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclassstaple' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T17:48:49+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsclass/goods_class_del.html?gc_id=1633
+[运行时间：0.129034s] [吞吐率：7.75req/s] [内存消耗：3,769.98kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclassstaple' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T17:48:49+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsclass/goods_class_del.html?gc_id=1633
+[运行时间：0.100489s] [吞吐率：9.95req/s] [内存消耗：3,769.98kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclassstaple' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T17:48:49+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsclass/goods_class_del.html?gc_id=1633
+[运行时间：0.112058s] [吞吐率：8.92req/s] [内存消耗：3,769.98kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclassstaple' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T17:48:49+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsclass/goods_class_del.html?gc_id=1633
+[运行时间：0.118312s] [吞吐率：8.45req/s] [内存消耗：3,769.98kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclassstaple' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T17:48:49+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsclass/goods_class_del.html?gc_id=1633
+[运行时间：0.104516s] [吞吐率：9.57req/s] [内存消耗：3,769.98kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclassstaple' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T17:48:50+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsclass/goods_class_del.html?gc_id=1633
+[运行时间：0.107798s] [吞吐率：9.28req/s] [内存消耗：3,769.98kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclassstaple' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T17:48:50+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsclass/goods_class_del.html?gc_id=1633
+[运行时间：0.108181s] [吞吐率：9.24req/s] [内存消耗：3,769.98kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclassstaple' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T17:48:50+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsclass/goods_class_del.html?gc_id=1633
+[运行时间：0.109748s] [吞吐率：9.11req/s] [内存消耗：3,769.98kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclassstaple' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T17:48:50+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsclass/goods_class_del.html?gc_id=1633
+[运行时间：0.101740s] [吞吐率：9.83req/s] [内存消耗：3,769.98kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclassstaple' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T17:48:57+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/dashboard/index.html
+[运行时间：1.941861s] [吞吐率：0.51req/s] [内存消耗：3,555.61kb] [文件加载：67]
+[ error ] [2]file_get_contents(http://service.csdeshang.com/index.php/Home/Version/checkDsmall.html?domain=localhost&amp;version=V3.0.3%0D%0A): failed to open stream: Redirection limit reached, aborting[D:\phpStudy\PHPTutorial\WWW\dsmall\application\admin\controller\Dashboard.php:31]
+---------------------------------------------------------------
+[ 2019-04-02T17:49:13+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/goods_class_del.html?gc_id=1625
+[运行时间：0.232979s] [吞吐率：4.29req/s] [内存消耗：3,770.88kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclassstaple' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T17:51:01+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.101513s] [吞吐率：9.85req/s] [内存消耗：4,907.69kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-02T17:51:03+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.127396s] [吞吐率：7.85req/s] [内存消耗：3,653.97kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-02T17:54:42+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/goods_class_del.html?gc_id=1626
+[运行时间：0.190894s] [吞吐率：5.24req/s] [内存消耗：3,762.88kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclassstaple' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T17:58:16+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/goods_class_del.html?gc_id=1626,1610
+[运行时间：0.209800s] [吞吐率：4.77req/s] [内存消耗：3,770.98kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclassstaple' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-02T18:02:27+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsclass/goods_class_del.html?gc_id=1624
+[运行时间：0.243620s] [吞吐率：4.10req/s] [内存消耗：3,769.82kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclassstaple' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]

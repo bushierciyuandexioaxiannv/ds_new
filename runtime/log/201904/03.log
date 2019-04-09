@@ -1,0 +1,368 @@
+---------------------------------------------------------------
+[ 2019-04-03T08:21:46+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/dashboard/statistics.html
+[运行时间：0.469748s] [吞吐率：2.13req/s] [内存消耗：3,721.96kb] [文件加载：71]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_pdcash' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-03T08:22:01+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.427872s] [吞吐率：2.34req/s] [内存消耗：4,876.95kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T09:39:25+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.207052s] [吞吐率：4.83req/s] [内存消耗：4,681.29kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T10:11:09+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/good.html
+[运行时间：0.241018s] [吞吐率：4.15req/s] [内存消耗：2,533.07kb] [文件加载：62]
+[ error ] [1]Call to undefined method app\admin\controller\Goodsclass::model()[D:\phpStudy\PHPTutorial\WWW\dsmall\application\admin\controller\Goodsclass.php:15]
+---------------------------------------------------------------
+[ 2019-04-03T10:14:34+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.257340s] [吞吐率：3.89req/s] [内存消耗：4,866.07kb] [文件加载：74]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodscommon' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-03T10:17:50+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/good.html
+[运行时间：0.143808s] [吞吐率：6.95req/s] [内存消耗：4,559.65kb] [文件加载：69]
+[ error ] [8]未定义变量: show_depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\admin\controller\Goodsclass.php:22]
+---------------------------------------------------------------
+[ 2019-04-03T10:18:22+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.079613s] [吞吐率：12.56req/s] [内存消耗：4,681.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T10:18:23+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.069889s] [吞吐率：14.31req/s] [内存消耗：4,681.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T10:18:51+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.125552s] [吞吐率：7.96req/s] [内存消耗：4,681.29kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T10:18:51+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.108028s] [吞吐率：9.26req/s] [内存消耗：4,681.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T10:18:52+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.133370s] [吞吐率：7.50req/s] [内存消耗：4,681.29kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T10:18:52+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.115114s] [吞吐率：8.69req/s] [内存消耗：4,681.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T10:18:53+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/good.html
+[运行时间：0.180669s] [吞吐率：5.53req/s] [内存消耗：4,559.63kb] [文件加载：69]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\admin\controller\Goodsclass.php:22]
+---------------------------------------------------------------
+[ 2019-04-03T10:18:58+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/good.html
+[运行时间：0.176446s] [吞吐率：5.67req/s] [内存消耗：4,559.63kb] [文件加载：69]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\admin\controller\Goodsclass.php:22]
+---------------------------------------------------------------
+[ 2019-04-03T10:20:06+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/good.html
+[运行时间：0.089951s] [吞吐率：11.12req/s] [内存消耗：4,559.63kb] [文件加载：69]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\admin\controller\Goodsclass.php:22]
+---------------------------------------------------------------
+[ 2019-04-03T10:20:09+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/good.html
+[运行时间：0.095901s] [吞吐率：10.43req/s] [内存消耗：4,559.63kb] [文件加载：69]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\admin\controller\Goodsclass.php:22]
+---------------------------------------------------------------
+[ 2019-04-03T10:20:10+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/good.html
+[运行时间：0.094475s] [吞吐率：10.58req/s] [内存消耗：4,559.63kb] [文件加载：69]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\admin\controller\Goodsclass.php:22]
+---------------------------------------------------------------
+[ 2019-04-03T10:20:10+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/good.html
+[运行时间：0.148534s] [吞吐率：6.73req/s] [内存消耗：4,559.63kb] [文件加载：69]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\admin\controller\Goodsclass.php:22]
+---------------------------------------------------------------
+[ 2019-04-03T10:20:13+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.091157s] [吞吐率：10.97req/s] [内存消耗：4,681.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T10:20:14+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.070186s] [吞吐率：14.25req/s] [内存消耗：4,681.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T10:20:14+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.084792s] [吞吐率：11.79req/s] [内存消耗：4,681.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T10:20:15+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.074008s] [吞吐率：13.51req/s] [内存消耗：4,681.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T10:20:15+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.076879s] [吞吐率：13.01req/s] [内存消耗：4,681.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T10:20:15+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.076142s] [吞吐率：13.13req/s] [内存消耗：4,681.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T10:20:15+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.081661s] [吞吐率：12.25req/s] [内存消耗：4,681.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T10:20:15+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.068411s] [吞吐率：14.62req/s] [内存消耗：4,681.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T10:20:16+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.077808s] [吞吐率：12.85req/s] [内存消耗：4,681.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T10:20:16+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.122141s] [吞吐率：8.19req/s] [内存消耗：4,681.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T10:20:16+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.079110s] [吞吐率：12.64req/s] [内存消耗：4,681.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T10:20:16+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.099456s] [吞吐率：10.05req/s] [内存消耗：4,681.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T10:20:17+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.071657s] [吞吐率：13.96req/s] [内存消耗：4,681.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T10:20:17+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.063472s] [吞吐率：15.76req/s] [内存消耗：4,681.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T10:20:17+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.083123s] [吞吐率：12.03req/s] [内存消耗：4,681.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T10:29:52+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/good.html
+[运行时间：0.521865s] [吞吐率：1.92req/s] [内存消耗：4,825.94kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\admin\controller\Goodsclass.php:22]
+---------------------------------------------------------------
+[ 2019-04-03T14:03:20+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/good.html
+[运行时间：1.814568s] [吞吐率：0.55req/s] [内存消耗：4,825.90kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\admin\controller\Goodsclass.php:23]
+---------------------------------------------------------------
+[ 2019-04-03T14:04:53+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.112274s] [吞吐率：8.91req/s] [内存消耗：4,681.29kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T14:04:53+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.058329s] [吞吐率：17.14req/s] [内存消耗：4,681.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T14:04:53+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.051328s] [吞吐率：19.48req/s] [内存消耗：4,681.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T14:04:54+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.051356s] [吞吐率：19.47req/s] [内存消耗：4,681.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T14:04:54+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.067773s] [吞吐率：14.76req/s] [内存消耗：4,681.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T14:04:54+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.054094s] [吞吐率：18.49req/s] [内存消耗：4,681.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T14:04:54+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.056088s] [吞吐率：17.83req/s] [内存消耗：4,681.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T14:04:54+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.060042s] [吞吐率：16.65req/s] [内存消耗：4,681.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T14:04:55+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.054413s] [吞吐率：18.38req/s] [内存消耗：4,681.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T14:04:55+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.051820s] [吞吐率：19.30req/s] [内存消耗：4,681.30kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-03T14:08:05+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/good.html
+[运行时间：0.060933s] [吞吐率：16.41req/s] [内存消耗：4,559.05kb] [文件加载：69]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\admin\controller\Goodsclass.php:21]
+---------------------------------------------------------------
+[ 2019-04-03T14:11:08+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.147545s] [吞吐率：6.78req/s] [内存消耗：4,820.63kb] [文件加载：74]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodscommon' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-03T14:11:10+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：1.455086s] [吞吐率：0.69req/s] [内存消耗：4,820.63kb] [文件加载：74]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodscommon' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-03T14:11:11+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.329498s] [吞吐率：3.03req/s] [内存消耗：4,820.63kb] [文件加载：74]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodscommon' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-03T14:11:11+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.091149s] [吞吐率：10.97req/s] [内存消耗：4,820.65kb] [文件加载：74]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodscommon' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-03T14:56:27+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.413214s] [吞吐率：2.42req/s] [内存消耗：5,911.03kb] [文件加载：77]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_platform_store' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-03T15:04:27+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.312265s] [吞吐率：3.20req/s] [内存消耗：6,151.36kb] [文件加载：81]
+[ error ] [8]未定义数组索引: is_goodsfcode[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\3751b49fcdbba9232044b436c080bbed.php:197]
+---------------------------------------------------------------
+[ 2019-04-03T15:04:29+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.142275s] [吞吐率：7.03req/s] [内存消耗：6,183.77kb] [文件加载：78]
+[ error ] [8]未定义数组索引: is_goodsfcode[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\3751b49fcdbba9232044b436c080bbed.php:197]
+---------------------------------------------------------------
+[ 2019-04-03T15:04:29+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.152649s] [吞吐率：6.55req/s] [内存消耗：6,183.77kb] [文件加载：78]
+[ error ] [8]未定义数组索引: is_goodsfcode[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\3751b49fcdbba9232044b436c080bbed.php:197]
+---------------------------------------------------------------
+[ 2019-04-03T15:04:30+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.137220s] [吞吐率：7.29req/s] [内存消耗：6,183.77kb] [文件加载：78]
+[ error ] [8]未定义数组索引: is_goodsfcode[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\3751b49fcdbba9232044b436c080bbed.php:197]
+---------------------------------------------------------------
+[ 2019-04-03T15:04:30+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.142973s] [吞吐率：6.99req/s] [内存消耗：6,183.77kb] [文件加载：78]
+[ error ] [8]未定义数组索引: is_goodsfcode[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\3751b49fcdbba9232044b436c080bbed.php:197]
+---------------------------------------------------------------
+[ 2019-04-03T15:04:30+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.134247s] [吞吐率：7.45req/s] [内存消耗：6,183.77kb] [文件加载：78]
+[ error ] [8]未定义数组索引: is_goodsfcode[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\3751b49fcdbba9232044b436c080bbed.php:197]
+---------------------------------------------------------------
+[ 2019-04-03T15:08:31+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.177894s] [吞吐率：5.62req/s] [内存消耗：3,653.37kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-03T15:10:02+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.275941s] [吞吐率：3.62req/s] [内存消耗：3,813.87kb] [文件加载：78]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-03T15:10:04+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：1.850458s] [吞吐率：0.54req/s] [内存消耗：3,653.57kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-03T15:10:04+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：1.626274s] [吞吐率：0.61req/s] [内存消耗：3,653.57kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-03T15:12:25+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.087973s] [吞吐率：11.37req/s] [内存消耗：3,653.58kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-03T15:12:25+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.081416s] [吞吐率：12.28req/s] [内存消耗：3,653.58kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-03T15:12:26+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.108504s] [吞吐率：9.22req/s] [内存消耗：3,653.57kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-03T15:12:26+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.088047s] [吞吐率：11.36req/s] [内存消耗：3,653.58kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-03T15:12:26+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.083387s] [吞吐率：11.99req/s] [内存消耗：3,653.58kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-03T15:12:26+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.085646s] [吞吐率：11.68req/s] [内存消耗：3,653.58kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-03T15:12:27+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.074599s] [吞吐率：13.41req/s] [内存消耗：3,653.58kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-03T15:12:27+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.099986s] [吞吐率：10.00req/s] [内存消耗：3,653.58kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-03T15:12:27+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.114730s] [吞吐率：8.72req/s] [内存消耗：3,653.58kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-03T15:12:28+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.091470s] [吞吐率：10.93req/s] [内存消耗：3,653.58kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-03T15:12:28+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.082481s] [吞吐率：12.12req/s] [内存消耗：3,653.58kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-03T15:12:28+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.091509s] [吞吐率：10.93req/s] [内存消耗：3,653.58kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-03T15:13:14+08:00 ] 0.0.0.0 POST localhost/dsmall/public/index.php/admin/goods/goods_lockup.html
+[运行时间：0.283024s] [吞吐率：3.53req/s] [内存消耗：3,999.15kb] [文件加载：75]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_storemsgtpl' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-03T15:14:19+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goods/index.html?search_goods_name=&search_commonid=&search_gc%5B%5D=1088&search_gc%5B%5D=1089&search_gc%5B%5D=1090&choose_gcid=1089&search_store_name=&b_name=&b_id=&search_brand_keyword=&goods_state=&goods_verify=
+[运行时间：0.150289s] [吞吐率：6.65req/s] [内存消耗：6,131.00kb] [文件加载：78]
+[ error ] [8]未定义数组下标: 100088[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\3751b49fcdbba9232044b436c080bbed.php:207]
+---------------------------------------------------------------
+[ 2019-04-03T15:22:48+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home/goods/index.html?goods_id=457
+[运行时间：1.126861s] [吞吐率：0.89req/s] [内存消耗：5,487.52kb] [文件加载：87]
+[ error ] [8]未定义数组索引: store_mgdiscount_state[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Pmgdiscount.php:12]
+---------------------------------------------------------------
+[ 2019-04-03T15:38:22+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home/goods/index.html?goods_id=417
+[运行时间：0.268557s] [吞吐率：3.72req/s] [内存消耗：4,724.94kb] [文件加载：81]
+[ error ] [8]未定义数组索引: store_mgdiscount_state[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Pmgdiscount.php:12]
+---------------------------------------------------------------
+[ 2019-04-03T15:46:49+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/Home/goods/index.html?goods_id=406
+[运行时间：0.174837s] [吞吐率：5.72req/s] [内存消耗：4,724.99kb] [文件加载：81]
+[ error ] [8]未定义数组索引: store_mgdiscount_state[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Pmgdiscount.php:12]
+---------------------------------------------------------------
+[ 2019-04-03T15:46:55+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home/goods/index.html?goods_id=406
+[运行时间：0.191981s] [吞吐率：5.21req/s] [内存消耗：4,539.47kb] [文件加载：77]
+[ error ] [8]未定义数组索引: store_mgdiscount_state[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Pmgdiscount.php:12]
+---------------------------------------------------------------
+[ 2019-04-03T15:48:17+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：1.712433s] [吞吐率：0.58req/s] [内存消耗：6,595.97kb] [文件加载：88]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'adv_enabled' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-03T16:13:01+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.131928s] [吞吐率：7.58req/s] [内存消耗：4,567.96kb] [文件加载：77]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'adv_enabled' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-03T16:17:52+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home/goods/index.html?goods_id=482
+[运行时间：0.332638s] [吞吐率：3.01req/s] [内存消耗：4,724.60kb] [文件加载：81]
+[ error ] [8]未定义数组索引: store_mgdiscount_state[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Pmgdiscount.php:12]
+---------------------------------------------------------------
+[ 2019-04-03T16:24:43+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home/goods/index.html?goods_id=482
+[运行时间：0.164709s] [吞吐率：6.07req/s] [内存消耗：4,653.77kb] [文件加载：80]
+[ error ] [8]未定义数组索引: store_mgdiscount_state[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Pmgdiscount.php:12]
+---------------------------------------------------------------
+[ 2019-04-03T17:12:39+08:00 ] 0.0.0.0 POST localhost/dsmall/public/index.php/admin/goods/goods_lockup.html
+[运行时间：0.261957s] [吞吐率：3.82req/s] [内存消耗：3,999.14kb] [文件加载：75]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_storemsgtpl' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-03T17:14:28+08:00 ] 0.0.0.0 POST localhost/dsmall/public/index.php/admin/goods/goods_lockup.html
+[运行时间：0.256665s] [吞吐率：3.90req/s] [内存消耗：4,009.68kb] [文件加载：75]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'storemt_code' in 'order clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-03T17:16:46+08:00 ] 0.0.0.0 POST localhost/dsmall/public/index.php/admin/goods/goods_lockup.html
+[运行时间：0.409892s] [吞吐率：2.44req/s] [内存消耗：4,050.39kb] [文件加载：76]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_storemsgsetting' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-03T17:19:09+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home/goods/index.html?goods_id=482
+[运行时间：0.204816s] [吞吐率：4.88req/s] [内存消耗：4,724.58kb] [文件加载：81]
+[ error ] [8]未定义数组索引: store_mgdiscount_state[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Pmgdiscount.php:12]
+---------------------------------------------------------------
+[ 2019-04-03T17:52:30+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home/goods/index.html?goods_id=482
+[运行时间：0.330881s] [吞吐率：3.02req/s] [内存消耗：5,354.37kb] [文件加载：85]
+[ error ] [8]未定义数组索引: goods_mgdiscount[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Pmgdiscount.php:24]
+---------------------------------------------------------------
+[ 2019-04-03T17:52:32+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home/goods/index.html?goods_id=482
+[运行时间：0.116361s] [吞吐率：8.59req/s] [内存消耗：4,583.51kb] [文件加载：78]
+[ error ] [8]未定义数组索引: goods_mgdiscount[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Pmgdiscount.php:24]
+---------------------------------------------------------------
+[ 2019-04-03T17:52:32+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home/goods/index.html?goods_id=482
+[运行时间：0.092281s] [吞吐率：10.84req/s] [内存消耗：4,583.52kb] [文件加载：78]
+[ error ] [8]未定义数组索引: goods_mgdiscount[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Pmgdiscount.php:24]
+---------------------------------------------------------------
+[ 2019-04-03T17:52:33+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home/goods/index.html?goods_id=482
+[运行时间：0.090994s] [吞吐率：10.99req/s] [内存消耗：4,583.52kb] [文件加载：78]
+[ error ] [8]未定义数组索引: goods_mgdiscount[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Pmgdiscount.php:24]
+---------------------------------------------------------------
+[ 2019-04-03T17:52:33+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home/goods/index.html?goods_id=482
+[运行时间：0.098559s] [吞吐率：10.15req/s] [内存消耗：4,583.52kb] [文件加载：78]
+[ error ] [8]未定义数组索引: goods_mgdiscount[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Pmgdiscount.php:24]

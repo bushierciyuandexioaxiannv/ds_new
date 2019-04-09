@@ -1,0 +1,773 @@
+---------------------------------------------------------------
+[ 2019-04-08T08:10:46+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：4.460762s] [吞吐率：0.22req/s] [内存消耗：5,865.13kb] [文件加载：93]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'adv_enabled' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T08:10:47+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/dashboard/statistics.html
+[运行时间：3.182388s] [吞吐率：0.31req/s] [内存消耗：3,721.85kb] [文件加载：71]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_pdcash' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T08:10:47+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：2.412761s] [吞吐率：0.41req/s] [内存消耗：4,036.95kb] [文件加载：78]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'adv_enabled' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T08:10:47+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：1.190516s] [吞吐率：0.84req/s] [内存消耗：4,036.98kb] [文件加载：78]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'adv_enabled' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T08:14:07+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.131872s] [吞吐率：7.58req/s] [内存消耗：3,947.38kb] [文件加载：77]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'adv_enabled' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T08:14:12+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/dashboard/statistics.html
+[运行时间：0.124509s] [吞吐率：8.03req/s] [内存消耗：3,721.91kb] [文件加载：71]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_pdcash' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T08:25:04+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.171867s] [吞吐率：5.82req/s] [内存消耗：3,813.80kb] [文件加载：78]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-08T08:25:08+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.115304s] [吞吐率：8.67req/s] [内存消耗：3,653.70kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-08T08:28:10+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home
+[运行时间：0.180207s] [吞吐率：5.55req/s] [内存消耗：3,947.38kb] [文件加载：77]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'adv_enabled' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T08:29:00+08:00 ] 0.0.0.0 POST localhost/dsmall/public/index.php/admin/goodsclass/goods_class_edit.html?gc_id=1410
+[运行时间：0.550634s] [吞吐率：1.82req/s] [内存消耗：3,892.94kb] [文件加载：73]
+[ error ] [8]未定义数组下标: 0[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:179]
+---------------------------------------------------------------
+[ 2019-04-08T08:33:07+08:00 ] 0.0.0.0 POST localhost/dsmall/public/index.php/admin/brand/brand_add.html
+[运行时间：0.208473s] [吞吐率：4.80req/s] [内存消耗：3,646.32kb] [文件加载：70]
+[ error ] [0]数据表字段不存在:[gc_id][D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Builder.php:115]
+---------------------------------------------------------------
+[ 2019-04-08T08:46:48+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/brand/brand_edit.html?brand_id=804
+[运行时间：0.086598s] [吞吐率：11.55req/s] [内存消耗：4,082.09kb] [文件加载：71]
+[ error ] [8]未定义数组索引: gc_id[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\3ab49c9432c12304508c94a6c018d17e.php:53]
+---------------------------------------------------------------
+[ 2019-04-08T08:47:19+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/brand/brand_edit.html?brand_id=804
+[运行时间：0.099704s] [吞吐率：10.03req/s] [内存消耗：4,082.09kb] [文件加载：71]
+[ error ] [8]未定义数组索引: gc_id[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\3ab49c9432c12304508c94a6c018d17e.php:53]
+---------------------------------------------------------------
+[ 2019-04-08T08:47:27+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/brand/brand_edit.html?brand_id=804
+[运行时间：0.108808s] [吞吐率：9.19req/s] [内存消耗：4,082.09kb] [文件加载：71]
+[ error ] [8]未定义数组索引: gc_id[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\3ab49c9432c12304508c94a6c018d17e.php:53]
+---------------------------------------------------------------
+[ 2019-04-08T08:48:09+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/brand/brand_edit.html?brand_id=804
+[运行时间：0.182835s] [吞吐率：5.47req/s] [内存消耗：4,261.00kb] [文件加载：74]
+[ error ] [8]未定义数组索引: class_id[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\3ab49c9432c12304508c94a6c018d17e.php:62]
+---------------------------------------------------------------
+[ 2019-04-08T08:50:22+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/brand/brand_edit.html?brand_id=804
+[运行时间：0.185284s] [吞吐率：5.40req/s] [内存消耗：4,261.07kb] [文件加载：74]
+[ error ] [8]未定义数组索引: brand_showtype[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\3ab49c9432c12304508c94a6c018d17e.php:87]
+---------------------------------------------------------------
+[ 2019-04-08T08:52:57+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/brand/brand_add.html
+[运行时间：0.076383s] [吞吐率：13.09req/s] [内存消耗：4,050.16kb] [文件加载：71]
+[ error ] [8]未定义数组索引: show_type[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\3ab49c9432c12304508c94a6c018d17e.php:87]
+---------------------------------------------------------------
+[ 2019-04-08T08:53:22+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/brand/brand_add.html
+[运行时间：0.054067s] [吞吐率：18.50req/s] [内存消耗：4,050.16kb] [文件加载：71]
+[ error ] [8]未定义数组索引: show_type[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\3ab49c9432c12304508c94a6c018d17e.php:87]
+---------------------------------------------------------------
+[ 2019-04-08T08:53:29+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/brand/brand_add.html
+[运行时间：0.067825s] [吞吐率：14.74req/s] [内存消耗：4,050.16kb] [文件加载：71]
+[ error ] [8]未定义数组索引: show_type[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\3ab49c9432c12304508c94a6c018d17e.php:87]
+---------------------------------------------------------------
+[ 2019-04-08T09:04:47+08:00 ] 0.0.0.0 POST localhost/dsmall/public/index.php/admin/brand/brand_add.html
+[运行时间：0.105209s] [吞吐率：9.50req/s] [内存消耗：3,648.23kb] [文件加载：70]
+[ error ] [0]数据表字段不存在:[brand_showtype][D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Builder.php:115]
+---------------------------------------------------------------
+[ 2019-04-08T09:07:21+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Brand/brand_del.html?brand_id=798,797,796
+[运行时间：0.317027s] [吞吐率：3.15req/s] [内存消耗：3,591.26kb] [文件加载：66]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/brand\): Permission denied[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Brand.php:45]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/brand\05866370672799748_sm.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Brand.php:45]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/brand\): Permission denied[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Brand.php:45]
+---------------------------------------------------------------
+[ 2019-04-08T09:20:29+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/Home/goods/index.html?goods_id=482
+[运行时间：0.401041s] [吞吐率：2.49req/s] [内存消耗：4,579.91kb] [文件加载：82]
+[ error ] [8]未定义数组索引: store_mgdiscount[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Pmgdiscount.php:28]
+---------------------------------------------------------------
+[ 2019-04-08T09:21:33+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home/goods/index.html?goods_id=462
+[运行时间：0.286348s] [吞吐率：3.49req/s] [内存消耗：4,656.38kb] [文件加载：84]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsimages' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T09:23:42+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home/goods/index.html?goods_id=475
+[运行时间：0.355471s] [吞吐率：2.81req/s] [内存消耗：4,580.28kb] [文件加载：82]
+[ error ] [8]未定义数组索引: store_mgdiscount[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Pmgdiscount.php:28]
+---------------------------------------------------------------
+[ 2019-04-08T09:23:49+08:00 ] 0.0.0.0 POST localhost/dsmall/public/index.php/admin/goods/goods_lockup.html
+[运行时间：0.303915s] [吞吐率：3.29req/s] [内存消耗：4,052.66kb] [文件加载：75]
+[ error ] [8]未定义数组索引: storemt_message_switch[D:\phpStudy\PHPTutorial\WWW\dsmall\extend\sendmsg\sendStoremsg.php:27]
+---------------------------------------------------------------
+[ 2019-04-08T09:24:09+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home/goods/index.html?goods_id=462
+[运行时间：0.115211s] [吞吐率：8.68req/s] [内存消耗：4,435.96kb] [文件加载：80]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsimages' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T09:24:52+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goods/index.html?search_goods_name=&search_commonid=&search_gc%5B0%5D=0&choose_gcid=0&search_store_name=&b_name=&b_id=&search_brand_keyword=&goods_state=&goods_verify=&page=16
+[运行时间：0.118534s] [吞吐率：8.44req/s] [内存消耗：5,836.62kb] [文件加载：78]
+[ error ] [8]未定义数组下标: 100092[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\3751b49fcdbba9232044b436c080bbed.php:207]
+---------------------------------------------------------------
+[ 2019-04-08T09:25:23+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home/goods/index.html?goods_id=482
+[运行时间：0.113580s] [吞吐率：8.80req/s] [内存消耗：4,393.95kb] [文件加载：78]
+[ error ] [8]未定义数组索引: store_mgdiscount[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Pmgdiscount.php:28]
+---------------------------------------------------------------
+[ 2019-04-08T09:25:38+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index?page=16
+[运行时间：0.112408s] [吞吐率：8.90req/s] [内存消耗：5,831.56kb] [文件加载：78]
+[ error ] [8]未定义数组下标: 100092[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\3751b49fcdbba9232044b436c080bbed.php:207]
+---------------------------------------------------------------
+[ 2019-04-08T09:25:42+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index?page=15
+[运行时间：0.183414s] [吞吐率：5.45req/s] [内存消耗：5,853.13kb] [文件加载：78]
+[ error ] [8]未定义数组下标: 100105[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\3751b49fcdbba9232044b436c080bbed.php:207]
+---------------------------------------------------------------
+[ 2019-04-08T09:25:59+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/Home/goods/index.html?goods_id=473
+[运行时间：0.183487s] [吞吐率：5.45req/s] [内存消耗：4,579.95kb] [文件加载：82]
+[ error ] [8]未定义数组索引: store_mgdiscount[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Pmgdiscount.php:28]
+---------------------------------------------------------------
+[ 2019-04-08T09:26:22+08:00 ] 0.0.0.0 POST localhost/dsmall/public/index.php/admin/goods/goods_lockup.html
+[运行时间：0.415438s] [吞吐率：2.41req/s] [内存消耗：3,938.65kb] [文件加载：73]
+[ error ] [8]未定义数组索引: storemt_message_switch[D:\phpStudy\PHPTutorial\WWW\dsmall\extend\sendmsg\sendStoremsg.php:27]
+---------------------------------------------------------------
+[ 2019-04-08T09:31:09+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goods/goods_del.html?common_id=100280
+[运行时间：0.143894s] [吞吐率：6.95req/s] [内存消耗：3,727.70kb] [文件加载：70]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store\4\469.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goods.php:947]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsattrindex' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T09:31:11+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goods/goods_del.html?common_id=100280
+[运行时间：0.086987s] [吞吐率：11.50req/s] [内存消耗：3,727.70kb] [文件加载：70]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store\4\469.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goods.php:947]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsattrindex' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T09:31:12+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goods/goods_del.html?common_id=100280
+[运行时间：0.074443s] [吞吐率：13.43req/s] [内存消耗：3,727.70kb] [文件加载：70]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store\4\469.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goods.php:947]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsattrindex' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T09:31:12+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goods/goods_del.html?common_id=100280
+[运行时间：0.078170s] [吞吐率：12.79req/s] [内存消耗：3,727.70kb] [文件加载：70]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store\4\469.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goods.php:947]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsattrindex' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T09:31:13+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goods/goods_del.html?common_id=100280
+[运行时间：0.076694s] [吞吐率：13.04req/s] [内存消耗：3,727.70kb] [文件加载：70]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store\4\469.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goods.php:947]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsattrindex' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T09:31:25+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/goods_del.html?common_id=100262,100258
+[运行时间：0.090167s] [吞吐率：11.09req/s] [内存消耗：3,729.72kb] [文件加载：70]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store\25\444.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goods.php:947]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store\4\448.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goods.php:947]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store\4\449.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goods.php:947]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsattrindex' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T09:31:51+08:00 ] 0.0.0.0 POST localhost/dsmall/public/index.php/admin/goods/goods_lockup.html
+[运行时间：0.361799s] [吞吐率：2.76req/s] [内存消耗：3,938.62kb] [文件加载：73]
+[ error ] [8]未定义数组索引: storemt_message_switch[D:\phpStudy\PHPTutorial\WWW\dsmall\extend\sendmsg\sendStoremsg.php:27]
+---------------------------------------------------------------
+[ 2019-04-08T09:32:18+08:00 ] 0.0.0.0 POST localhost/dsmall/public/index.php/admin/goods/goods_lockup.html
+[运行时间：0.318852s] [吞吐率：3.14req/s] [内存消耗：3,938.65kb] [文件加载：73]
+[ error ] [8]未定义数组索引: storemt_message_switch[D:\phpStudy\PHPTutorial\WWW\dsmall\extend\sendmsg\sendStoremsg.php:27]
+---------------------------------------------------------------
+[ 2019-04-08T09:32:56+08:00 ] 0.0.0.0 POST localhost/dsmall/public/index.php/admin/goods/goods_lockup.html
+[运行时间：0.497088s] [吞吐率：2.01req/s] [内存消耗：3,938.66kb] [文件加载：73]
+[ error ] [8]未定义数组索引: storemt_message_forced[D:\phpStudy\PHPTutorial\WWW\dsmall\extend\sendmsg\sendStoremsg.php:27]
+---------------------------------------------------------------
+[ 2019-04-08T09:37:42+08:00 ] 0.0.0.0 POST localhost/dsmall/public/index.php/admin/goods/goods_lockup.html
+[运行时间：0.298391s] [吞吐率：3.35req/s] [内存消耗：3,938.68kb] [文件加载：73]
+[ error ] [8]未定义数组索引: storemt_message_content[D:\phpStudy\PHPTutorial\WWW\dsmall\extend\sendmsg\sendStoremsg.php:28]
+---------------------------------------------------------------
+[ 2019-04-08T14:18:35+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index?page=5
+[运行时间：0.327360s] [吞吐率：3.05req/s] [内存消耗：5,850.54kb] [文件加载：78]
+[ error ] [8]未定义数组下标: 100247[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\3751b49fcdbba9232044b436c080bbed.php:207]
+---------------------------------------------------------------
+[ 2019-04-08T14:48:01+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goods/goods_storage.html
+[运行时间：0.066732s] [吞吐率：14.99req/s] [内存消耗：2,382.38kb] [文件加载：60]
+[ error ] [0]方法参数错误:goods_list[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\App.php:431]
+---------------------------------------------------------------
+[ 2019-04-08T15:12:10+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/ajaxgetspecandbrand.html?type_id=0&class_id=0
+[运行时间：0.188365s] [吞吐率：5.31req/s] [内存消耗：3,687.20kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'gc_id' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:12:11+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/ajaxgetspecandbrand.html?type_id=0&class_id=1410
+[运行时间：0.099159s] [吞吐率：10.08req/s] [内存消耗：3,628.94kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclass' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:12:12+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/ajaxgetspecandbrand.html?type_id=0&class_id=1410
+[运行时间：0.071594s] [吞吐率：13.97req/s] [内存消耗：3,629.22kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclass' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:12:13+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/ajaxgetspecandbrand.html?type_id=0&class_id=1410
+[运行时间：0.076908s] [吞吐率：13.00req/s] [内存消耗：3,629.22kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclass' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:12:14+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/ajaxgetspecandbrand.html?type_id=0&class_id=1410
+[运行时间：0.078037s] [吞吐率：12.81req/s] [内存消耗：3,629.22kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclass' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:12:14+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/ajaxgetspecandbrand.html?type_id=0&class_id=1410
+[运行时间：0.079686s] [吞吐率：12.55req/s] [内存消耗：3,629.22kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclass' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:12:15+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/ajaxgetspecandbrand.html?type_id=0&class_id=1424
+[运行时间：0.112708s] [吞吐率：8.87req/s] [内存消耗：3,629.22kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclass' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:12:24+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=56
+[运行时间：0.258568s] [吞吐率：3.87req/s] [内存消耗：3,593.77kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:12:53+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goods/goods_del.html?common_id=100293
+[运行时间：0.284786s] [吞吐率：3.51req/s] [内存消耗：3,727.77kb] [文件加载：70]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store\2\482.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goods.php:947]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsattrindex' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:13:57+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goods/goods_del.html?common_id=100293
+[运行时间：0.069593s] [吞吐率：14.37req/s] [内存消耗：3,727.77kb] [文件加载：70]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store\2\482.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goods.php:947]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsattrindex' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:14:04+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=54
+[运行时间：0.212009s] [吞吐率：4.72req/s] [内存消耗：3,594.00kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:14:07+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=54
+[运行时间：0.139507s] [吞吐率：7.17req/s] [内存消耗：3,593.98kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:14:08+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=54
+[运行时间：0.181079s] [吞吐率：5.52req/s] [内存消耗：3,593.98kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:14:08+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=54
+[运行时间：0.111133s] [吞吐率：9.00req/s] [内存消耗：3,593.98kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:14:08+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=54
+[运行时间：0.131182s] [吞吐率：7.62req/s] [内存消耗：3,593.98kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:14:08+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=54
+[运行时间：0.097955s] [吞吐率：10.21req/s] [内存消耗：3,593.98kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:14:08+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=54
+[运行时间：0.096856s] [吞吐率：10.32req/s] [内存消耗：3,593.98kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:14:09+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=54
+[运行时间：0.098637s] [吞吐率：10.14req/s] [内存消耗：3,593.98kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:14:09+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=54
+[运行时间：0.188002s] [吞吐率：5.32req/s] [内存消耗：3,593.98kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:14:09+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=54
+[运行时间：0.116319s] [吞吐率：8.60req/s] [内存消耗：3,594.00kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:14:09+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=54
+[运行时间：0.099660s] [吞吐率：10.03req/s] [内存消耗：3,594.00kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:14:09+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=54
+[运行时间：0.113046s] [吞吐率：8.85req/s] [内存消耗：3,594.00kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:14:10+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=54
+[运行时间：0.102419s] [吞吐率：9.76req/s] [内存消耗：3,594.00kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:14:10+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=54
+[运行时间：0.093338s] [吞吐率：10.71req/s] [内存消耗：3,594.00kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:14:10+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=54
+[运行时间：0.208338s] [吞吐率：4.80req/s] [内存消耗：3,594.00kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:19:20+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=54
+[运行时间：0.128474s] [吞吐率：7.78req/s] [内存消耗：3,594.00kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:19:20+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=54
+[运行时间：0.127645s] [吞吐率：7.83req/s] [内存消耗：3,594.00kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:19:20+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=54
+[运行时间：0.105986s] [吞吐率：9.44req/s] [内存消耗：3,594.00kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:19:20+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=54
+[运行时间：0.107646s] [吞吐率：9.29req/s] [内存消耗：3,594.00kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:19:20+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=54
+[运行时间：0.096158s] [吞吐率：10.40req/s] [内存消耗：3,594.00kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:19:21+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=54
+[运行时间：0.123488s] [吞吐率：8.10req/s] [内存消耗：3,594.00kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:19:21+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=54
+[运行时间：0.085725s] [吞吐率：11.67req/s] [内存消耗：3,594.00kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:19:21+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=54
+[运行时间：0.112784s] [吞吐率：8.87req/s] [内存消耗：3,594.00kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:19:21+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=54
+[运行时间：0.087492s] [吞吐率：11.43req/s] [内存消耗：3,594.00kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:19:21+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=54
+[运行时间：0.096513s] [吞吐率：10.36req/s] [内存消耗：3,594.00kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:19:22+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=54
+[运行时间：0.106812s] [吞吐率：9.36req/s] [内存消耗：3,594.00kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:19:22+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=54
+[运行时间：0.096963s] [吞吐率：10.31req/s] [内存消耗：3,594.00kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:19:22+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=54
+[运行时间：0.100497s] [吞吐率：9.95req/s] [内存消耗：3,594.00kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:19:22+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=54
+[运行时间：0.100040s] [吞吐率：10.00req/s] [内存消耗：3,594.00kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:19:22+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=54
+[运行时间：0.096839s] [吞吐率：10.33req/s] [内存消耗：3,594.00kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:19:23+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=54
+[运行时间：0.096149s] [吞吐率：10.40req/s] [内存消耗：3,594.00kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T15:34:22+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_edit.html?type_id=54
+[运行时间：0.098728s] [吞吐率：10.13req/s] [内存消耗：4,097.74kb] [文件加载：71]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclass' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T16:01:01+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_edit.html?type_id=54
+[运行时间：0.098587s] [吞吐率：10.14req/s] [内存消耗：4,167.20kb] [文件加载：72]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'gc_id' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T16:01:05+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_edit.html?type_id=54
+[运行时间：0.090591s] [吞吐率：11.04req/s] [内存消耗：4,167.20kb] [文件加载：72]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'gc_id' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T16:22:08+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_edit.html?type_id=54
+[运行时间：0.133717s] [吞吐率：7.48req/s] [内存消耗：4,156.36kb] [文件加载：72]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'gc_id' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-08T16:22:44+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.142338s] [吞吐率：7.03req/s] [内存消耗：3,653.98kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-08T16:22:47+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.093062s] [吞吐率：10.75req/s] [内存消耗：3,654.04kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-08T16:32:53+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.099856s] [吞吐率：10.01req/s] [内存消耗：3,653.98kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-08T16:32:55+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.094798s] [吞吐率：10.55req/s] [内存消耗：3,653.98kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-08T16:46:42+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.115778s] [吞吐率：8.64req/s] [内存消耗：3,653.98kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-08T17:03:48+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsalbum/pic_list.html
+[运行时间：0.167084s] [吞吐率：5.99req/s] [内存消耗：3,895.54kb] [文件加载：78]
+[ error ] [8]未定义数组索引: apic_uploadtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\e46799ef52f35dc5c191a8535bbe2538.php:85]
+---------------------------------------------------------------
+[ 2019-04-08T17:03:53+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsalbum/pic_list.html
+[运行时间：0.102785s] [吞吐率：9.73req/s] [内存消耗：3,727.16kb] [文件加载：75]
+[ error ] [8]未定义数组索引: apic_uploadtime[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\e46799ef52f35dc5c191a8535bbe2538.php:85]
+---------------------------------------------------------------
+[ 2019-04-08T17:06:16+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsalbum/del_album_pic.html?apic_id=49874
+[运行时间：0.213693s] [吞吐率：4.68req/s] [内存消耗：3,520.12kb] [文件加载：66]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06063063698871735_240.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06063063698871735_480.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06063063698871735_1280.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06063063698871735.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+---------------------------------------------------------------
+[ 2019-04-08T17:06:23+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsalbum/del_album_pic.html?apic_id=12171
+[运行时间：0.278218s] [吞吐率：3.59req/s] [内存消耗：3,520.17kb] [文件加载：66]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265057833849100_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265057833849100_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265057833849100_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265057833849100.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+---------------------------------------------------------------
+[ 2019-04-08T17:06:34+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsalbum/del_album_pic.html?apic_id=12169
+[运行时间：0.291788s] [吞吐率：3.43req/s] [内存消耗：3,520.11kb] [文件加载：66]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265057776078296_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265057776078296_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265057776078296_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265057776078296.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+---------------------------------------------------------------
+[ 2019-04-08T17:08:08+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsalbum/del_album_pic.html?apic_id=49873,49872,49871,49870,49869,49868,49867,49866,49865,49864,49863,49862,49861,49860,49859,49858,49857,49856,12185,12184,12183,12182,12181,12180,12179,12178,12177,12176,12175,12174,12173,12172,12170,12168
+[运行时间：0.265992s] [吞吐率：3.76req/s] [内存消耗：3,631.85kb] [文件加载：66]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06063063651230922_240.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06063063651230922_480.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06063063651230922_1280.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06063063651230922.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06063056037860433_240.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06063056037860433_480.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06063056037860433_1280.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06063056037860433.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06063055963855416_240.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06063055963855416_480.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06063055963855416_1280.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06063055963855416.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06063055896180503_240.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06063055896180503_480.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06063055896180503_1280.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06063055896180503.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06063055605679050_240.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06063055605679050_480.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06063055605679050_1280.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06063055605679050.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06062414181599503_240.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06062414181599503_480.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06062414181599503_1280.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06062414181599503.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06062414130679397_240.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06062414130679397_480.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06062414130679397_1280.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06062414130679397.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06062413876290662_240.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06062413876290662_480.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06062413876290662_1280.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_06062413876290662.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06060661721863035_240.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06060661721863035_480.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06060661721863035_1280.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06060661721863035.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06058072227217786_240.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06058072227217786_480.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06058072227217786_1280.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06058072227217786.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06058072171664013_240.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06058072171664013_480.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06058072171664013_1280.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06058072171664013.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06058072114579571_240.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06058072114579571_480.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06058072114579571_1280.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06058072114579571.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06058072061788077_240.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06058072061788077_480.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06058072061788077_1280.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06058072061788077.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06058072011202438_240.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06058072011202438_480.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06058072011202438_1280.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06058072011202438.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06058071740776856_240.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06058071740776856_480.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06058071740776856_1280.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06058071740776856.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06057204572797567_240.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06057204572797567_480.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06057204572797567_1280.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06057204572797567.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06056314856014408_240.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06056314856014408_480.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06056314856014408_1280.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06056314856014408.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06056306283505097_240.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06056306283505097_480.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06056306283505097_1280.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\4\4_06056306283505097.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265080765054204_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265080765054204_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265080765054204_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265080765054204.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265080735615538_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265080735615538_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265080735615538_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265080735615538.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265080704684992_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265080704684992_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265080704684992_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265080704684992.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265080439215001_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265080439215001_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265080439215001_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265080439215001.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265065325254329_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265065325254329_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265065325254329_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265065325254329.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265065269693523_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265065269693523_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265065269693523_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265065269693523.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265065241077522_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265065241077522_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265065241077522_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265065241077522.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265065205389486_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265065205389486_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265065205389486_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265065205389486.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265065176568626_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265065176568626_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265065176568626_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265065176568626.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265063948053868_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265063948053868_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265063948053868_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265063948053868.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265062757332523_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265062757332523_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265062757332523_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265062757332523.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265062643444095_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265062643444095_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265062643444095_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265062643444095.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265062613249169_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265062613249169_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265062613249169_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265062613249169.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265061440208663_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265061440208663_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265061440208663_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265061440208663.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265057804605430_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265057804605430_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265057804605430_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265057804605430.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265057749513556_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265057749513556_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265057749513556_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\19\19_05265057749513556.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+---------------------------------------------------------------
+[ 2019-04-08T17:08:50+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsalbum/del_album_pic.html?apic_id=12150,12149,12148,12147,12146,12145,12144,12143,12142,12140,12139,12138,12137,12130,12129,12128,12127,12126,12125,12124,12123,12122,12121,12120,12119,12118,12117,12116,12115,12114,12113,12112,12111,12110
+[运行时间：0.285500s] [吞吐率：3.50req/s] [内存消耗：3,631.41kb] [文件加载：66]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265037721565256_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265037721565256_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265037721565256_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265037721565256.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265037687209318_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265037687209318_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265037687209318_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265037687209318.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265036987141203_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265036987141203_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265036987141203_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265036987141203.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265036804377709_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265036804377709_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265036804377709_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265036804377709.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265036563646532_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265036563646532_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265036563646532_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265036563646532.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265036243033423_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265036243033423_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265036243033423_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265036243033423.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265035552941311_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265035552941311_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265035552941311_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265035552941311.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265035372488881_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265035372488881_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265035372488881_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265035372488881.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265035308975905_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265035308975905_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265035308975905_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265035308975905.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265005399100077_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265005399100077_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265005399100077_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265005399100077.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265005371047574_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265005371047574_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265005371047574_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265005371047574.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265004543670620_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265004543670620_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265004543670620_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265004543670620.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265004509074839_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265004509074839_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265004509074839_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05265004509074839.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750767926202_240.gif): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750767926202_480.gif): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750767926202_1280.gif): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750767926202.gif): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750762371683_240.gif): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750762371683_480.gif): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750762371683_1280.gif): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750762371683.gif): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750755422539_240.gif): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750755422539_480.gif): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750755422539_1280.gif): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750755422539.gif): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750751261904_240.gif): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750751261904_480.gif): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750751261904_1280.gif): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750751261904.gif): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750647647932_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750647647932_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750647647932_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750647647932.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750482859209_240.gif): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750482859209_480.gif): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750482859209_1280.gif): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750482859209.gif): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750479380456_240.gif): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750479380456_480.gif): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750479380456_1280.gif): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750479380456.gif): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750476844922_240.gif): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750476844922_480.gif): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750476844922_1280.gif): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750476844922.gif): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750473265465_240.gif): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750473265465_480.gif): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750473265465_1280.gif): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264750473265465.gif): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264740247298716_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264740247298716_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264740247298716_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264740247298716.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264740243895128_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264740243895128_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264740243895128_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264740243895128.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264740240532786_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264740240532786_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264740240532786_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264740240532786.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739537307057_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739537307057_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739537307057_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739537307057.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739534064220_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739534064220_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739534064220_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739534064220.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739529854497_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739529854497_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739529854497_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739529854497.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739526751689_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739526751689_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739526751689_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739526751689.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739523683725_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739523683725_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739523683725_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739523683725.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739520338289_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739520338289_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739520338289_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739520338289.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739385470070_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739385470070_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739385470070_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739385470070.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739382162751_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739382162751_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739382162751_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739382162751.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739378159941_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739378159941_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739378159941_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05264739378159941.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+---------------------------------------------------------------
+[ 2019-04-08T17:09:07+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsalbum/del_album_pic.html?apic_id=918
+[运行时间：0.242719s] [吞吐率：4.12req/s] [内存消耗：3,520.21kb] [文件加载：66]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05144536143126520_240.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05144536143126520_480.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05144536143126520_1280.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05144536143126520.png): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+---------------------------------------------------------------
+[ 2019-04-08T17:09:12+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsalbum/del_album_pic.html?apic_id=11967
+[运行时间：0.300115s] [吞吐率：3.33req/s] [内存消耗：3,520.23kb] [文件加载：66]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05262339448742884_240.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05262339448742884_480.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05262339448742884_1280.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:190]
+[ error ] [2]unlink(D:\phpStudy\PHPTutorial\WWW\dsmall\public/uploads\home/store/goods\2\2_05262339448742884.jpg): No such file or directory[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common_upload.php:192]
+---------------------------------------------------------------
+[ 2019-04-08T17:10:50+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.118110s] [吞吐率：8.47req/s] [内存消耗：3,653.70kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-08T17:12:42+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.083241s] [吞吐率：12.01req/s] [内存消耗：3,653.64kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-08T17:12:44+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.070829s] [吞吐率：14.12req/s] [内存消耗：3,653.64kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-08T17:12:44+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.076434s] [吞吐率：13.08req/s] [内存消耗：3,653.64kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-08T17:12:44+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.076281s] [吞吐率：13.11req/s] [内存消耗：3,653.64kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-08T17:12:44+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.088995s] [吞吐率：11.24req/s] [内存消耗：3,653.64kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-08T17:12:45+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.082320s] [吞吐率：12.15req/s] [内存消耗：3,653.64kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-08T17:12:45+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.071507s] [吞吐率：13.98req/s] [内存消耗：3,653.64kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-08T17:12:45+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.077777s] [吞吐率：12.86req/s] [内存消耗：3,653.64kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-08T17:12:45+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.077532s] [吞吐率：12.90req/s] [内存消耗：3,653.64kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-08T17:12:45+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.080157s] [吞吐率：12.48req/s] [内存消耗：3,653.64kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-08T17:12:46+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.091479s] [吞吐率：10.93req/s] [内存消耗：3,653.64kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-08T17:12:46+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.067767s] [吞吐率：14.76req/s] [内存消耗：3,653.64kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-08T17:12:46+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.076348s] [吞吐率：13.10req/s] [内存消耗：3,653.64kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-08T17:12:46+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.085645s] [吞吐率：11.68req/s] [内存消耗：3,653.64kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-08T17:12:46+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.064373s] [吞吐率：15.53req/s] [内存消耗：3,653.64kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]

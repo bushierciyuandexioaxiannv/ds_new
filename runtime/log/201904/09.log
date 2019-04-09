@@ -1,0 +1,192 @@
+---------------------------------------------------------------
+[ 2019-04-09T08:19:46+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/dashboard/statistics.html
+[运行时间：0.450368s] [吞吐率：2.22req/s] [内存消耗：3,721.84kb] [文件加载：71]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_pdcash' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-09T08:20:01+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.345649s] [吞吐率：2.89req/s] [内存消耗：3,653.37kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-09T08:37:49+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.112647s] [吞吐率：8.88req/s] [内存消耗：3,813.84kb] [文件加载：78]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-09T08:37:51+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.089024s] [吞吐率：11.23req/s] [内存消耗：3,653.58kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-09T08:51:50+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.080845s] [吞吐率：12.37req/s] [内存消耗：3,653.58kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-09T08:52:39+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.092649s] [吞吐率：10.79req/s] [内存消耗：3,653.58kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-09T08:52:59+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Store/store/
+[运行时间：0.141921s] [吞吐率：7.05req/s] [内存消耗：4,005.73kb] [文件加载：75]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_storegrade' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-09T08:53:01+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Store/store/
+[运行时间：0.105197s] [吞吐率：9.51req/s] [内存消耗：4,005.88kb] [文件加载：75]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_storegrade' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-09T08:53:39+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.078228s] [吞吐率：12.78req/s] [内存消耗：3,653.58kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-09T08:53:40+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.083005s] [吞吐率：12.05req/s] [内存消耗：3,653.58kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-09T08:53:43+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.075417s] [吞吐率：13.26req/s] [内存消耗：3,653.58kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-09T08:53:44+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.073056s] [吞吐率：13.69req/s] [内存消耗：3,653.58kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-09T08:53:44+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.078981s] [吞吐率：12.66req/s] [内存消耗：3,653.58kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-09T08:54:17+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.068105s] [吞吐率：14.68req/s] [内存消耗：3,653.58kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-09T08:54:25+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/ajaxgetspecandbrand.html?type_id=0&class_id=0
+[运行时间：0.091032s] [吞吐率：10.99req/s] [内存消耗：3,687.20kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'gc_id' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-09T08:54:25+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/ajaxgetspecandbrand.html?type_id=0&class_id=1410
+[运行时间：0.084227s] [吞吐率：11.87req/s] [内存消耗：4,062.66kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'gc_id' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-09T08:54:26+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/ajaxgetspecandbrand.html?type_id=0&class_id=1410
+[运行时间：0.078266s] [吞吐率：12.78req/s] [内存消耗：4,062.75kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'gc_id' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-09T08:54:27+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/ajaxgetspecandbrand.html?type_id=0&class_id=1424
+[运行时间：0.345316s] [吞吐率：2.90req/s] [内存消耗：4,062.71kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'gc_id' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-09T08:59:27+08:00 ] 0.0.0.0 POST localhost/dsmall/public/index.php/admin/goodsclass/goods_class_edit.html?gc_id=1410
+[运行时间：0.536441s] [吞吐率：1.86req/s] [内存消耗：4,049.28kb] [文件加载：76]
+[ error ] [8]未定义数组下标: 0[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:179]
+---------------------------------------------------------------
+[ 2019-04-09T09:00:01+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/ajaxgetspecandbrand.html?type_id=0&class_id=0
+[运行时间：0.099933s] [吞吐率：10.01req/s] [内存消耗：3,687.34kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'gc_id' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-09T09:02:01+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/ajaxgetspecandbrand.html?type_id=0&class_id=0
+[运行时间：0.060343s] [吞吐率：16.57req/s] [内存消耗：3,687.34kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'gc_id' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-09T09:02:01+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/ajaxgetspecandbrand.html?type_id=0&class_id=0
+[运行时间：0.065723s] [吞吐率：15.22req/s] [内存消耗：3,687.34kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'gc_id' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-09T09:02:02+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/ajaxgetspecandbrand.html?type_id=0&class_id=0
+[运行时间：0.106212s] [吞吐率：9.42req/s] [内存消耗：3,687.34kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'gc_id' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-09T09:02:02+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home/Mlselection/index/type/goodsclass.html?pid=1410
+[运行时间：0.164989s] [吞吐率：6.06req/s] [内存消耗：4,357.66kb] [文件加载：73]
+[ error ] [8]未定义数组下标: 101[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:444]
+---------------------------------------------------------------
+[ 2019-04-09T09:02:03+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/ajaxgetspecandbrand.html?type_id=0&class_id=1410
+[运行时间：0.260458s] [吞吐率：3.84req/s] [内存消耗：4,062.74kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'gc_id' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-09T09:02:03+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/ajaxgetspecandbrand.html?type_id=0&class_id=1410
+[运行时间：0.073898s] [吞吐率：13.53req/s] [内存消耗：4,062.74kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'gc_id' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-09T09:02:04+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/ajaxgetspecandbrand.html?type_id=0&class_id=1410
+[运行时间：0.117616s] [吞吐率：8.50req/s] [内存消耗：4,062.74kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'gc_id' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-09T09:02:06+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/ajaxgetspecandbrand.html?type_id=0&class_id=1410
+[运行时间：0.105964s] [吞吐率：9.44req/s] [内存消耗：4,062.74kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'gc_id' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-09T09:02:06+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/ajaxgetspecandbrand.html?type_id=0&class_id=1088
+[运行时间：0.074977s] [吞吐率：13.34req/s] [内存消耗：4,062.74kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'gc_id' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-09T09:02:07+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home/Mlselection/index/type/goodsclass.html?pid=1088
+[运行时间：0.283505s] [吞吐率：3.53req/s] [内存消耗：4,357.66kb] [文件加载：73]
+[ error ] [8]未定义数组下标: 101[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:444]
+---------------------------------------------------------------
+[ 2019-04-09T09:02:07+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/ajaxgetspecandbrand.html?type_id=0&class_id=1088
+[运行时间：0.081910s] [吞吐率：12.21req/s] [内存消耗：4,062.74kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'gc_id' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-09T09:02:12+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/ajaxgetspecandbrand.html?type_id=0&class_id=0
+[运行时间：0.058161s] [吞吐率：17.19req/s] [内存消耗：3,687.34kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'gc_id' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-09T09:02:13+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home/Mlselection/index/type/goodsclass.html?pid=1410
+[运行时间：0.112379s] [吞吐率：8.90req/s] [内存消耗：4,357.66kb] [文件加载：73]
+[ error ] [8]未定义数组下标: 101[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:444]
+---------------------------------------------------------------
+[ 2019-04-09T09:02:13+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/ajaxgetspecandbrand.html?type_id=0&class_id=1410
+[运行时间：0.154075s] [吞吐率：6.49req/s] [内存消耗：4,062.74kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'gc_id' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-09T09:02:52+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_edit.html?type_id=63
+[运行时间：0.116725s] [吞吐率：8.57req/s] [内存消耗：4,166.90kb] [文件加载：72]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'gc_id' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-09T09:03:13+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=63
+[运行时间：0.227313s] [吞吐率：4.40req/s] [内存消耗：3,593.76kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-09T09:03:14+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=63
+[运行时间：0.121290s] [吞吐率：8.24req/s] [内存消耗：3,593.76kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-09T09:03:15+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=63
+[运行时间：0.217451s] [吞吐率：4.60req/s] [内存消耗：3,593.76kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-09T09:03:15+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=63
+[运行时间：0.093929s] [吞吐率：10.65req/s] [内存消耗：3,593.76kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-09T09:03:15+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=63
+[运行时间：0.097533s] [吞吐率：10.25req/s] [内存消耗：3,593.76kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-09T09:03:20+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_edit.html?type_id=63
+[运行时间：0.132782s] [吞吐率：7.53req/s] [内存消耗：4,167.27kb] [文件加载：72]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'gc_id' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-09T09:08:25+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_edit.html?type_id=63
+[运行时间：0.176944s] [吞吐率：5.65req/s] [内存消耗：4,166.25kb] [文件加载：72]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_typebrand' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-09T09:09:34+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_edit.html?type_id=63
+[运行时间：0.129398s] [吞吐率：7.73req/s] [内存消耗：4,404.45kb] [文件加载：73]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'gc_id' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-09T09:11:06+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_edit.html?type_id=63
+[运行时间：0.135088s] [吞吐率：7.40req/s] [内存消耗：4,404.45kb] [文件加载：73]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'gc_id' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-09T09:19:55+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_edit.html?type_id=63
+[运行时间：0.270689s] [吞吐率：3.69req/s] [内存消耗：4,404.55kb] [文件加载：73]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_typespec' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-09T09:21:48+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/home/Mlselection/index/type/goodsclass.html?pid=1410
+[运行时间：0.251187s] [吞吐率：3.98req/s] [内存消耗：4,357.72kb] [文件加载：73]
+[ error ] [8]未定义数组下标: 101[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:444]
+---------------------------------------------------------------
+[ 2019-04-09T09:22:18+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/type/type_drop.html?type_id=63
+[运行时间：0.299076s] [吞吐率：3.34req/s] [内存消耗：3,593.84kb] [文件加载：69]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-09T09:32:15+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/goodsclass/ceshi.html
+[运行时间：0.135450s] [吞吐率：7.38req/s] [内存消耗：3,674.55kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_attributevalue' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]

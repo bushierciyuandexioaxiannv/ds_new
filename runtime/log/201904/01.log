@@ -1,0 +1,60 @@
+---------------------------------------------------------------
+[ 2019-04-01T15:13:12+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/dashboard/statistics.html
+[运行时间：0.379149s] [吞吐率：2.64req/s] [内存消耗：3,598.66kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'member_addtime' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-01T15:24:54+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/dashboard/statistics.html
+[运行时间：0.207559s] [吞吐率：4.82req/s] [内存消耗：3,598.66kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'member_addtime' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-01T15:24:56+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/member/member.html
+[运行时间：0.400977s] [吞吐率：2.49req/s] [内存消耗：3,828.38kb] [文件加载：73]
+[ error ] [8]未定义数组索引: member_addtime[D:\phpStudy\PHPTutorial\WWW\dsmall\application\admin\controller\Member.php:73]
+---------------------------------------------------------------
+[ 2019-04-01T15:24:59+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/dashboard/statistics.html
+[运行时间：0.080863s] [吞吐率：12.37req/s] [内存消耗：3,598.66kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'member_addtime' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-01T15:25:02+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/dashboard/statistics.html
+[运行时间：0.084402s] [吞吐率：11.85req/s] [内存消耗：3,598.66kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'member_addtime' in 'where clause'[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-01T15:28:16+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/goods_class/
+[运行时间：0.237904s] [吞吐率：4.20req/s] [内存消耗：3,706.44kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclass' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-01T15:28:16+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goodsclass/goods_class/
+[运行时间：0.089389s] [吞吐率：11.19req/s] [内存消耗：3,706.54kb] [文件加载：70]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_goodsclass' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-01T16:58:20+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Brand/index/
+[运行时间：0.294937s] [吞吐率：3.39req/s] [内存消耗：3,943.36kb] [文件加载：78]
+[ error ] [8]未定义数组索引: brand_showtype[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\4671ef41a94ce4a6cbf171e8c415fc6e.php:110]
+---------------------------------------------------------------
+[ 2019-04-01T16:58:21+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Goods/index/
+[运行时间：0.267352s] [吞吐率：3.74req/s] [内存消耗：4,920.43kb] [文件加载：70]
+[ error ] [8]未定义数组索引: depth[D:\phpStudy\PHPTutorial\WWW\dsmall\application\common\model\Goodsclass.php:810]
+---------------------------------------------------------------
+[ 2019-04-01T16:58:23+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.242671s] [吞吐率：4.12req/s] [内存消耗：3,813.73kb] [文件加载：78]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-01T16:58:24+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/GoodsAlbum/index/
+[运行时间：0.174112s] [吞吐率：5.74req/s] [内存消耗：3,564.57kb] [文件加载：73]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_albumclass' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-01T16:59:00+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/GoodsAlbum/index/
+[运行时间：0.217913s] [吞吐率：4.59req/s] [内存消耗：3,627.00kb] [文件加载：74]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_albumpic' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-01T16:59:02+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/GoodsAlbum/index/
+[运行时间：0.119792s] [吞吐率：8.35req/s] [内存消耗：3,626.98kb] [文件加载：74]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table '718shop.718shop_albumpic' doesn't exist[D:\phpStudy\PHPTutorial\WWW\dsmall\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2019-04-01T16:59:53+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Spec/index/
+[运行时间：0.119212s] [吞吐率：8.39req/s] [内存消耗：3,653.57kb] [文件加载：75]
+[ error ] [8]未定义数组索引: gc_name[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\d249c32775dbad22f6e6e1ff2a25264c.php:73]
+---------------------------------------------------------------
+[ 2019-04-01T16:59:58+08:00 ] 0.0.0.0 GET localhost/dsmall/public/index.php/admin/Brand/index/
+[运行时间：0.135151s] [吞吐率：7.40req/s] [内存消耗：3,769.45kb] [文件加载：75]
+[ error ] [8]未定义数组索引: brand_showtype[D:\phpStudy\PHPTutorial\WWW\dsmall\runtime\temp\4671ef41a94ce4a6cbf171e8c415fc6e.php:110]
